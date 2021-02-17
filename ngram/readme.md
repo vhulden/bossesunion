@@ -61,7 +61,7 @@ Now export the data to csv (write.csv) and then -- not sure if this would be nec
 
 So now it looks like this:
 
-<img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/datarows.png" width=100 alt="data in rows">
+<img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/datarows.png" width=150 height=218 alt="data in rows">
 
 Open that in RStudio.
 
