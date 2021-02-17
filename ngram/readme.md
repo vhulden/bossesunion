@@ -14,7 +14,7 @@ None of this is error-free: there are problems with the accuracy of OCR (text re
 
 ![Google Ngram: vampires vs. zombies](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/vampirezombie.png)
 
-(See the [original at Google Ngrams](https://books.google.com/ngrams/graph?content=zombie%2Cvampire&year_start=1900&year_end=2019&corpus=26&smoothing=3]))
+(See the [original at Google Ngrams](https://books.google.com/ngrams/graph?content=zombie%2Cvampire&year_start=1900&year_end=2019&corpus=26&smoothing=3]). This search was inspired by Andrew Gelman & George A. Romero, "['How many zombies do you know?' Using indirect survey methods to measure alien attacks and outbreaks of the undead](https://arxiv.org/abs/1003.6087)," 2010.)
 
 Language is not reality. It's also good to keep in mind that language change may or may not reflect change in ideas and sentiments &mdash; and that the graphs the service draws may change over time as more books are ingested! For example, back in the day there was  quite a bit of debate about the meaning of this ngram graph:
 
