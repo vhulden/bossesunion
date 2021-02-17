@@ -63,10 +63,20 @@ So now it looks like this:
 
 <img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/datarows.png" width=150 height=218 alt="data in rows">
 
-Open that in RStudio.
+You can download the data file if you like, it's ngram.csv. Open that in RStudio.
 
 Then we can get a plot, nicely formatted, by:
 
 `> ggplot(smoothedngramdata_stacked_1880.2010,aes(x=year,y=percentage,group=term)) + geom_line(aes(linetype=term)) +  scale_linetype_manual(values=c("solid", "longdash","dotted")) + theme(panel.background = element_rect(fill = 'white'), legend.position = "bottom", panel.grid.major = element_line(colour = "grey90"),  panel.grid.minor.y = element_blank(), panel.grid.major.x = element_blank(), axis.text.x.bottom = element_text(size=14), axis.text.y.left = element_text(size=14), legend.title = element_blank(), legend.text = element_text(size=14)) + scale_x_continuous(breaks=seq(1880, 2010, 10)) + scale_y_continuous(labels = scales::percent_format(accuracy = 0.0001)) +  labs(x = "", y = "")`
 
 And that produced the image in the book. The numbers don't quite match Google ngram &mdash; there the peak of closed shop is 0.0006 and the peak of open shop is 0.000355. On the other hand, the graph on Ngrams on google doesn’t show them right; the open shop peak goes over 0.0004 despite the #.  However, the shape is the same, and the minor differences don't change the argument.
+
+## Some variants
+
+Although the closed shop language has persisted to some extent, and the *idea* that unions are "coercive" because they require people to join if the workplace is unionized has certainly persisted, the modern-day terminology isn't quite the same. To an extent, the phrase "right to work" has taken the place of "open shop", but not as clearly or dominantly. 
+
+![Google ngram with closed shop, union shop, right to work](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/ngram-with-rtw.png)
+
+(The image above says `[right to work]+right to work` because often the phrase is "right-to-work" which Google represents as "[right to work]".)
+
+You can see the original [here](https://books.google.com/ngrams/graph?content=union+shop%2Cclosed+shop%2C%5Bright+to+work%5D%2Bright+to+work&year_start=1880&year_end=2019&corpus=28&smoothing=3&direct_url=t1%3B%2Cunion%20shop%3B%2Cc0%3B.t1%3B%2Cclosed%20shop%3B%2Cc0%3B.t1%3B%2C%28%5Bright%20to%20work%5D%20%2B%20right%20to%20work%29%3B%2Cc0). It's also fun to play with some other phrases: "American Plan" as the open shop was called in the 1920s, "compulsory unionism" which has occasionally been popular, and so on. (In playing with the Ngram viewer, note that the y-axis changes as you do searches, so don't take the height of the graph too seriously!)
