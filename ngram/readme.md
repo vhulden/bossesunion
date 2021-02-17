@@ -6,6 +6,8 @@ Google Books has for years now provided a service called [Google Ngram](https://
 
 The service allows one to select a corpus (set of texts) in which to search for a phrase, so one can (sort of) limit it to "American English" versus "British English" for example. Whether something is "American" or "British" depends on the place of publication. With a corpus selected, one can choose the span of years of interest, and then enter one's phrase of interest, after which the system draws a graph representing the frequency of that phrase as a proportion of all phrases of that length in that year. 
 
+Note that searches are case sensitive! For more documentation and possibilities, see [Google's own documentation on the ngram](https://books.google.com/ngrams/info).
+
 ## Caveats
 
 None of this is error-free: there are problems with the accuracy of OCR (text recognition, so some texts may have severe problems with spelling or misrecognized words) as well as with the accuracy of the metadata (such as year and place of publication). Moreover, this is not necessarily a measure of what people were talking about: it does not weight books that everyone read more heavily than books that nobody opened. Even less is it a measure of what existed out there in the world &mdash; an obvious point, but one that is all too easy to forget. To remind yourself of it, it is good to consider this graph every now and then. Spoiler alert: it does not mean that we have, since the last years of the 20th century, been facing an ever-increasing zombie apocalypse accompanied by an even more terrifying proliferation of vampires.
