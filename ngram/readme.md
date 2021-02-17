@@ -8,13 +8,13 @@ The service allows one to select a corpus (set of texts) in which to search for 
 
 ## Caveats
 
-None of this is error-free: there are problems with the accuracy of OCR (text recognition, so some texts may have severe problems with spelling or misrecognized words) as well as with the accuracy of the metadata (such as year and place of publication). Moreover, this is not necessarily a measure of what people were talking about: it does not weight books that everyone read more heavily than books that nobody opened. Even less is it a measure of what existed out there in the world --- an obvious point, but one that is all too easy to forget. To remind yourself of it, it is good to consider this graph every now and then. Spoiler alert: it does not mean that we have, since the last years of the 20th century, been facing an ever-increasing zombie apocalypse accompanied by an even more terrifying proliferation of vampires.
+None of this is error-free: there are problems with the accuracy of OCR (text recognition, so some texts may have severe problems with spelling or misrecognized words) as well as with the accuracy of the metadata (such as year and place of publication). Moreover, this is not necessarily a measure of what people were talking about: it does not weight books that everyone read more heavily than books that nobody opened. Even less is it a measure of what existed out there in the world &mdash; an obvious point, but one that is all too easy to forget. To remind yourself of it, it is good to consider this graph every now and then. Spoiler alert: it does not mean that we have, since the last years of the 20th century, been facing an ever-increasing zombie apocalypse accompanied by an even more terrifying proliferation of vampires.
 
 ![Google Ngram: vampires vs. zombies](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/vampirezombie.png)
 
 (See the [original at Google Ngrams](https://books.google.com/ngrams/graph?content=zombie%2Cvampire&year_start=1900&year_end=2019&corpus=26&smoothing=3]))
 
-Language is not reality. It's also good to keep in mind that language change may or may not reflect change in ideas and sentiments --- and that the graphs the service draws may change over time as more books are ingested! For example, back in the day there was  quite a bit of debate about the meaning of this ngram graph:
+Language is not reality. It's also good to keep in mind that language change may or may not reflect change in ideas and sentiments &mdash; and that the graphs the service draws may change over time as more books are ingested! For example, back in the day there was  quite a bit of debate about the meaning of this ngram graph:
 
 ![Google Ngram: The United States are/The United States is](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/us-are-vs-us-is1.png)
 
@@ -22,7 +22,7 @@ Language is not reality. It's also good to keep in mind that language change may
 
 Does it say something about how people conceptualized the United States, or is it just language change? (The graph is from a 2012 [article in the Atlantic](https://www.theatlantic.com/technology/archive/2012/10/bigger-better-google-ngrams-brace-yourself-for-the-power-of-grammar/263487/) by Ben Zimmer, and while that article seems to have lost its images, you can still find it in a [later blog post](https://languagelog.ldc.upenn.edu/nll/?p=8472) by Zimmer.)
 
-Finally, the *kinds* of books in Google Books tend to skew toward academic-scientific literature, and --- of particular interest to a historian --- published books do not necessarily reflect hot current events topics, at least not immediately. 
+Finally, the *kinds* of books in Google Books tend to skew toward academic-scientific literature, and &mdash; of particular interest to a historian &mdash; published books do not necessarily reflect hot current events topics, at least not immediately. 
 
 For more discussions on caveats, see e.g. [this 2015 article in Wired! magazine](https://www.wired.com/2015/10/pitfalls-of-studying-language-with-google-ngram/) that also contains handy links to some more academic papers on the topic.
 
@@ -55,7 +55,7 @@ Open in RStudio for smoothing (I’m using smoothing of 7 - I tried using 3 to r
 > newdata[, `:=`(rollNunion = frollmean(union.shop, n = 7, align = "center"))]`
 
 
-Now export the data to csv (write.csv) and then -- not sure if this would be necessary, actually, and probably could be done in R, but I didn’t know how, so -- transform the data using [rawgraphs.io](https://rawgraphs.io/). Just copy-paste the csv data into the screen, hit on stack data, stack on year.
+Now export the data to csv (write.csv) and then &mdash; not sure if this would be necessary, actually, and probably could be done in R, but I didn’t know how, so there &mdash; transform the data using [rawgraphs.io](https://rawgraphs.io/). Just copy-paste the csv data into the screen, hit on stack data, stack on year.
 
 (Note that in the meantime I cut out the earliest and the latest years, so it’s now 1880-2010; there were some empty values early and late).
 
