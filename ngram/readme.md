@@ -77,11 +77,11 @@ And that produced the image in the book. The numbers don't quite match Google ng
 
 Back when I first started playing with ngrams, there was an ngram viewer called Bookworm (which I think was mostly a creation of [Ben Schmidt](http://benschmidt.org/), now at NYU) that allowed one to make ngram graphs from the newspapers in [Chronicling America](chroniclingamerica.loc.gov/), the National Archives newspaper digitization project. That would of course be of quite a bit of interest to a historian, since with newspapers we know what we are looking at (that is, we don't have to wonder about what genres of books are under- or overrepresented) and since the timeline is cleaner (if "closed shop" is used a lot in newspapers in 1904, it's probably because it's an important topic that year, and not ten years earlier). The bookworm is now broken, but I saved an image.
 
-[Ngram of union shop, closed shop, open shop in Chronicling America newspapers](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/unionshop_bookworm.png)
+![Ngram of union shop, closed shop, open shop in Chronicling America newspapers](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/unionshop_bookworm.png)
 
 Also, *The New York Times* had a wonderful service called Chronicle Labs where you could draw ngrams from NYT articles. Same deal, it's defunct now, but I have an old saved an image created ca. 2014.
 
-[Ngram of union shop, closed shop, open shop in New York Times](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/nyt_ngram_percentage.png)
+![Ngram of union shop, closed shop, open shop in New York Times](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/nyt_ngram_percentage.png)
 
 I don't recall what the specifics of these ngrams were (for example, they're a percentage of something, but of what exactly? of all bigrams that year?). However, it's nice and comforting that they more or less match up with the Google Ngram; gives me a bit more confidence that my argument about that image isn't entirely off base.
 
