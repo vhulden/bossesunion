@@ -12,13 +12,13 @@ Note that searches are case sensitive! For more documentation and possibilities,
 
 None of this is error-free: there are problems with the accuracy of OCR (text recognition, so some texts may have severe problems with spelling or misrecognized words) as well as with the accuracy of the metadata (such as year and place of publication). Moreover, this is not necessarily a measure of what people were talking about: it does not weight books that everyone read more heavily than books that nobody opened. Even less is it a measure of what existed out there in the world &mdash; an obvious point, but one that is all too easy to forget. To remind yourself of it, it is good to consider this graph every now and then. Spoiler alert: it does not mean that we have, since the last years of the 20th century, been facing an ever-increasing zombie apocalypse accompanied by an even more terrifying proliferation of vampires.
 
-![Google Ngram: vampires vs. zombies](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/vampirezombie.png)
+![Google Ngram: vampires vs. zombies](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/vampirezombie.png)
 
 (See the [original at Google Ngrams](https://books.google.com/ngrams/graph?content=zombie%2Cvampire&year_start=1900&year_end=2019&corpus=26&smoothing=3]). This search was inspired by Andrew Gelman & George A. Romero, "['How many zombies do you know?' Using indirect survey methods to measure alien attacks and outbreaks of the undead](https://arxiv.org/abs/1003.6087)," 2010.)
 
 Language is not reality. It's also good to keep in mind that language change may or may not reflect change in ideas and sentiments &mdash; and that the graphs the service draws may change over time as more books are ingested! For example, back in the day there was  quite a bit of debate about the meaning of this ngram graph:
 
-![Google Ngram: The United States are/The United States is](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/us-are-vs-us-is1.png)
+![Google Ngram: The United States are/The United States is](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/us-are-vs-us-is1.png)
 
 (It seems the exact query is too long for the current restrictions of the Ngram viewer, but you can see a [live version of a simpler one](https://books.google.com/ngrams/graph?content=The+United+States+are%2CThe+United+States+is&year_start=1770&year_end=2000&corpus=28&smoothing=3&direct_url=t1%3B%2CThe%20United%20States%20are%3B%2Cc0%3B.t1%3B%2CThe%20United%20States%20is%3B%2Cc0).)
 
@@ -35,17 +35,17 @@ So, one shouldn't put too much store by ngrams, and should not jump to conclusio
 
 To get the data, I did a search in Google Ngrams on closed shop, open shop, union shop, using the American English corpus and the years 1875-2019. I set the smoothing at 0. That looks like this:
 
-![Ngram closed shop, open shop, union shop](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/closedopenunion-google.png)
+![Ngram closed shop, open shop, union shop](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/closedopenunion-google.png)
 
 Or view it in [the ngram creator](https://books.google.com/ngrams/graph?content=closed+shop%2Copen+shop%2Cunion+shop&year_start=1875&year_end=2019&corpus=28&smoothing=0).
 
 Using instructions [here](https://johannesfilter.com/how-to-export-data-from-google-ngram-viewer/), I opened that in Chrome and copy-pasted the line with ngrams.data into a text file.
 
-![Chrome inspector screenshot](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/chromedata.png)
+![Chrome inspector screenshot](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/chromedata.png)
 
 It looks like below. Could of course read that into Python or R, but simple enough to just copy-paste into Excel: Copy the values, separate by using text to data in the Data tab (if necessary, sometimes it gets it right just with copy-paste), copy the row, paste special with transpose to get into a column instead. Label the columns. Add another column with year values (start from the start year, i.e., 1875, and in next cell do that cell + 1, and copy-paste that into the rest of the cells in the column). Do this for each phrase in the ngram.
 
-![data screenshot](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/data.png)
+![data screenshot](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/data.png)
 
 Save as csv. 
 
@@ -63,7 +63,7 @@ Now export the data to csv (write.csv) and then &mdash; not sure if this would b
 
 So now it looks like this:
 
-<img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/datarows.png" width=150 height=218 alt="data in rows">
+<img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/datarows.png" width=150 height=218 alt="data in rows">
 
 You can download the data file if you like, it's ngram.csv. Open that in RStudio.
 
@@ -75,9 +75,19 @@ And that produced the image in the book. The numbers don't quite match Google ng
 
 ## Some variants
 
+Back when I first started playing with ngrams, there was a "bookworm" ngram viewer that allowed one to try ngrams from files in the newspapers in [Chronicling America](chroniclingamerica.loc.gov/), the National Archives newspaper digitization project. That would of course be of quite a bit of interest to a historian, since with newspapers we know what we are looking at (that is, we don't have to wonder about what genres of books are under- or overrepresented) and since the timeline is cleaner (if "closed shop" is used a lot in newspapers in 1904, it's probably because it's an important topic that year, and not ten years earlier). The bookworm is now broken, but I saved an image.
+
+[Ngram of union shop, closed shop, open shop in Chronicling America newspapers](chronam)
+
+Also, *The New York Times* had a wonderful service called Chronicle Labs where you could draw ngrams from NYT articles. Same deal, it's defunct now, but I have an old saved an image created ca. 2014.
+
+[Ngram of union shop, closed shop, open shop in New York Times](nyt)
+
+I don't recall what the specifics of these ngrams were (for example, they're a percentage of something, but of what exactly? of all bigrams that year?). However, it's nice and comforting that they more or less match up with the Google Ngram; gives me a bit more confidence that my argument about that image isn't entirely off base.
+
 Although the closed shop language has persisted to some extent, and the *idea* that unions are "coercive" because they require people to join if the workplace is unionized has certainly persisted, the modern-day terminology isn't quite the same. To an extent, the phrase "right to work" has taken the place of "open shop", but not as clearly or dominantly. 
 
-![Google ngram with closed shop, union shop, right to work](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/ngram-with-rtw.png)
+![Google ngram with closed shop, union shop, right to work](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/ngram-with-rtw.png)
 
 (The image above says `[right to work]+right to work` because often the phrase is "right-to-work" which Google represents as "[right to work]".)
 
