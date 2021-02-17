@@ -6,7 +6,7 @@ Google Books has for years now provided a service called [Google Ngram](https://
 
 The service allows one to select a corpus (set of texts) in which to search for a phrase, so one can (sort of) limit it to "American English" versus "British English" for example. Whether something is "American" or "British" depends on the place of publication. With a corpus selected, one can choose the span of years of interest, and then enter one's phrase of interest, after which the system draws a graph representing the frequency of that phrase as a proportion of all phrases of that length in that year. 
 
-Note that searches are case sensitive! For more documentation and possibilities, see [Google's own documentation on the ngram](https://books.google.com/ngrams/info).
+Note that searches are case sensitive! For more documentation and possibilities, see [Google's own documentation of its Ngram Viewer](https://books.google.com/ngrams/info).
 
 ## Caveats
 
