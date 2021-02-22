@@ -9,7 +9,7 @@ There are two editions of the Book of St. Louisans, [1906](https://hdl.handle.ne
 
 ![BSTL entry](https://github.com/vhulden/governmentbythebosses/blob/main/socialnetwork/images/bstl-entry.png)
 
-I tried to clean the texts as best I could to get one person per row, mainly using regexes in a texteditor (TextMate). The rest of the procedure was as follows:
+I tried to clean the texts as best I could to get one person per row, mainly using [regular expressions](https://en.wikipedia.org/wiki/Regular_expression) in a texteditor (TextMate). The rest of the procedure was as follows:
 
 The information is extracted using the `extractbios.py script`. That script is run for each edition (1906 and 1912). Then the two lists are combined using `combinebios.py`. The script attempts to remove duplicates (by eliminating matching lastname, firstname, and birthyear) and succeeds to some extent: the list of 1906 entries has 3465 rows, the 1912 edition has 3764 rows (original had 4717, but removed rows that were simply “See vol 1906” before even processing the text), and the combined has 5056 rows, so 2173 duplicates have been removed.
 
@@ -32,12 +32,7 @@ There are a few more but the payoff seems too low to bother.
 
 Run addgeoresults.py to add the geolocation data to the masterfile. The main file is now BookOfStLouisansInfo_Complete.tsv.
 
-Note that there was originally a column ‘role’ that marks if a person was member of NAM, mainly - this is restored from an old file, but basically it’s created from looking up individuals in NAM membership lists and correspondence. There are a couple of other role codes that I earlier thought might be useful but that don’t really seem to be (have deleted those roles from current files, and converted the column to NAM column along the lines of BLM/CIA etc. columns.
-	⁃	Role codes: 
-	⁃	NAM =1
-	⁃	MO  fed legislator = 2
-	⁃	MO state legislator = 3
-	⁃	Other legislator = 4
+Note that there was originally a column ‘role’ that marks if a person was member of NAM, mainly - this is restored from an old file, but basically it’s created from looking up individuals in NAM membership lists and correspondence. There are a couple of other role codes that I earlier thought might be useful but that don’t really seem to be (have deleted those roles from current files, and converted the column to NAM column along the lines of BLM/CIA etc. columns. (Role codes: NAM =1;MO  fed legislator = 2; MO state legislator = 3; Other legislator = 4).
 
 The next step is to create the actual social network files. This is done with `snalinks-bsl-revised.py`, which a) calculates distance between residences and creates a link if the distance is smaller than 0.1 miles; b) creates links based on shared club membership; c) creates links based on shared association membership (for a separate network).
 
