@@ -1,0 +1,497 @@
+﻿ID,last,first,co,act,cosize,middle,city,state,latitude,longitude
+0,Ripley,Daniel,United States Glass Co.; Ripley & Co.,7,2500,C,Pittsburgh,PA,40.442169,-79.994945
+1,Draper,George,Draper Company,7,2500,A,Hopedale,MA,42.13144,-71.54189
+2,McFadden,Benjamin,Commercial Envelope and Box Co.,5,,B,Binghamton,NY,42.098702,-75.912543
+3,Hopewell,John,L.C. Chase & co,7,400,,Newton,MA,42.338028,-71.211578
+8,Hanna,Hugh,Atlas Engine Works,3,1400,H,Indianapolis,IN,39.76845,-86.156212
+9,,,San Francisco Brick Co,2,,,San Francisco,CA,37.78008,-122.420168
+10,Marshutz,,National Iron Works,2,,,San Francisco,CA,37.78008,-122.420168
+11,Cantrell,,National Iron Works,2,,,San Francisco,CA,37.78008,-122.420168
+12,(Foss),,American Glue Co.,2,750,,Boston,MA,42.358894,-71.056742
+13,Sharpe,Henry,Brown & Sharpe Manufacturing Co.,5,3000,D,Providence,RI,41.824461,-71.412747
+14,Clum,P,Clum & Atkinson Brass Founders,2,,A,Rochester,NY,43.155708,-77.612547
+15,,,Faunce & Spinney,2,,,Lynn,MA,42.46441,-70.948512
+16,Parry,John,Parry Brick,2,,E,Boston,MA,42.358894,-71.056742
+17,,,Closset & Devers,2,,,Portland,OR,45.516018,-122.681425
+19,Hyde,Henry,Wason Manufacturing Co.,2,700,S,Springfield,MA,42.102051,-72.585757
+21,Coffins,George,L.C. Chase & Co.,3,,T,Boston,MA,42.358894,-71.056742
+22,Hightower,Z,Hightower Box,2,,J,Atlanta,GA,33.748547,-84.391502
+23,Sammond,C,Stowell Manufacturing,2,210,E,South Milwaukee,WI,42.911597,-87.86068
+24,Roper,W,John L. Roper Lumber,2,,B,Norfolk,VA,36.846164,-76.285913
+25,Bolcom,W,H.C. Bolcom Lumber,2,,M,Winona,MN,44.049877,-91.639366
+27,Foot,Silas,"Foot, Schulze & Co.",3,600,Buck,St. Paul,MN,44.943719,-93.094281
+29,Hindley,R,Horlick's Food,2,350,C,Racine,WI,42.726126,-87.789462
+31,Lansing,Stuart,Bagley & Sewall,2,500,D,Watertown,NY,43.972377,-75.911254
+32,Kimberly,John,Kimberly & Clark Co.,3,,Alfred,Neenah,WI,44.178238,-88.477226
+35,Dodge,Philip,Mergenthaler Linotype Company,7,1800,T,New York,NY,40.713054,-74.007228
+38,Schafer,A,Sherwin-Williams Co,2,,E,Cleveland,OH,41.505546,-81.6915
+39,Lummus,Ezra,F.H. Lummus Sons,4,,Franklin,Columbus,GA,32.466682,-84.990405
+40,Douglass,E,Douglass Bagging Co??,3,,S,St. Joseph,MO,39.768194,-94.848164
+41,Ballantine,Robert,P. Ballantine & Sons,2,500,F,Newark,NJ,40.731507,-74.174388
+42,Bradley,Charles,P. Ballantine & Sons,2,,,Newark,NJ,40.731507,-74.174388
+43,Smith,George,,2,,K,St. Louis,MO,38.630276,-90.200309
+44,Chute,A,Enterprise Boiler Company,2,,B,Youngstown,OH,41.100083,-80.649387
+45,Miner,E,The Pfaudler Co.,2,,G,Rochester,NY,43.155708,-77.612547
+46,Shultz,John,Shultz Belting Co.,4,,A.J.,St. Louis,MO,38.630276,-90.200309
+48,Warrener,William,Federal?,3,,J,"Athens, co.",OH,39.3292,-82.101165
+49,Buchwalter,Edward,American Seeding-Machine Co.,3,1000,L,Springfield,OH,39.924581,-83.810137
+50,,,American China Co.,2,100,,Toronto,OH,40.463636,-80.601033
+51,Thompson,Newcomb,The Tradesman,5,,Frierson,Birmingham,AL,33.522859,-86.807705
+52,Stockton,Robert,Majestic Manufacturing Co.,5,390,Henry,St. Louis,MO,38.630276,-90.200309
+54,Busch,Augustus,Anheuser-Busch,5,6000,A,St. Louis,MO,38.630276,-90.200309
+56,Farquhar,A,PA Agricultural Works / A.B. Farquhar Co.,9,500,B,York,PA,39.960339,-76.734668
+57,Brown,A(lanson),Hamilton-Brown Shoe Co.,5,5500,D(avid),St. Louis,MO,38.630276,-90.200309
+58,Spencer,R,Hamilton-Brown Shoe Co.,5,,F,St. Louis,MO,38.630276,-90.200309
+59,Abercrombie,R,Abercrombie Stone Company,3,,M,St. Joseph,MO,39.768194,-94.848164
+60,Quarles,E,,8,,A,Louisville,KY,38.256078,-85.751569
+61,Nunemacher,F(rank),Nunemacher Press,7,,C,Louisville,KY,38.256078,-85.751569
+66,Callaway,Fuller,"Unity Cotton Mills, Milstead Mfg Co.",2,6000,E(arle),La Grange,GA,33.038741,-85.029644
+68,Robinson,C,Robinson Lumber Co.,2,,W,New Orleans,LA,29.950621,-90.074948
+69,Estabrook,George,Fisher Governor Co.,3,,R,Marshalltown,IA,42.034679,-92.912686
+70,Draper,William,Draper Co.,3,,F,Washington,DC,38.892062,-77.019912
+71,Wayman,T,Townsend Grace & Co.,4,,,Baltimore,MD,39.290443,-76.612333
+72,Townsend,William,Townsend Grace & Co.,4,,G,Baltimore,MD,39.290443,-76.612333
+73,Wagner,T,Townsend Grace & Co.,4,,,Baltimore,MD,39.290443,-76.612333
+74,Little,Henry ,Pillsbury-Washburn Flour Mills,2,,L(yman),Minneapolis,MN,44.977479,-93.264346
+76,Jones,Cyrus,Bailey-Jones Co.,3,,E,Jamestown,NY,42.098961,-79.242051
+77,Ramlose,C,Ramlose Shoe Co.?,2,,E,St. Louis,MO,38.630276,-90.200309
+78,Stegall,H,Union Biscuit Co.,2,,W,St. Louis,MO,38.630276,-90.200309
+80,Viall,W,Brown & Sharpe Manufacturing Co.,5,,A,Providence,RI,41.824461,-71.412747
+81,Reilly,James,,9,,M,Newark,NJ,40.731507,-74.174388
+82,Gary,James,James S. Gary & Son,8,,A,Baltimore,MD,39.290443,-76.612333
+83,Gary,Stanley,James S. Gary & Son,8,,E,Baltimore,MD,39.290443,-76.612333
+89,Altemus,Jacob,"W.W. Altemus & Son, Textile Machinery; Jacob K. Altemus ",2,,K,Philadelphia,PA,39.951061,-75.16562
+90,Crosby,Oliver,American Hoist & Derrick,4,600,,St. Paul,MN,44.943719,-93.094281
+91,Schwedtman,Fred (Ferdinand),Wagner Electrical; Racine-Sattley Co,9,,C,St. Louis,MO,38.630276,-90.200309
+93,Miles,H,Racine-Sattley Co.,9,1300,E,Racine,WI,42.726126,-87.789462
+94,Hanch,Charles,Nordyke & Marmon,7,600,C,Indianapolis,IN,39.76845,-86.156212
+96,Jarvis,Charles,American Hardware Corporation / P & F Corbin,9,5100,M,New Britain,CT,41.667528,-72.783437
+97,,,H.B. Smith Machine Co.,2,140,,Smithville,NJ,39.493973,-74.457736
+102,Brown,Charles,Hall & Brown Wood Working Machine Co.,2,,,St. Louis,MO,38.630276,-90.200309
+105,Riesenberg,Henry,Henry Riesenberg Cigar Co.,6,,,Indianapolis,IN,39.76845,-86.156212
+106,Fetzer,James,Herbrand Company?,2,,J,Columbiana,OH,40.888639,-80.693443
+109,Tompkins,Daniel,D.A. Tompkins Co.,7,,Augustus,Charlotte,NC,35.222936,-80.840161
+112,Payson,Edward,Emerson Piano Company,2,,S,Boston,MA,42.358894,-71.056742
+116,Ittner,Anthony,Anthony Ittner Brick Co.,4,,,St. Louis,MO,38.630276,-90.200309
+125,Campbell,S,,2,,W,Chicago,IL,41.883229,-87.632398
+126,Becker,Charles,,8,,H,New York,NY,40.713054,-74.007228
+131,Frankel,Philip,,6,,H,Cleveland,OH,41.505546,-81.6915
+133,Davis,Edward,,3,,H,Indianapolis,IN,39.76845,-86.156212
+134,Sykes,I,,2,,H,Columbus,MS,33.495562,-88.424393
+135,Wile,Sol,,2,,,Rochester,NY,43.155708,-77.612547
+138,Bliss,Charles,Farrell Foundry and Machine Company,2,,F,Waterbury; Ansonia,CT,41.34198,-73.078296
+139,Carlisle,Charles,Studebaker Bros. Manufacturing Company,4,5000,Arthur,South Bend,IN,41.675032,-86.251962
+140,Kirby,John,Dayton Manufacturing Co.,10,225,,Dayton,OH,39.760982,-84.192203
+142,French,W,Barnhardt Brothers & Spindler,3,,H,Chicago,IL,41.883229,-87.632398
+143,Penfield,R,American Clay Machinery Co.,2,,C,New York,NY,40.713054,-74.007228
+144,Chambers,J,Chambers Brothers Co,2,160,H,Philadelphia,PA,39.951061,-75.16562
+146,Barbour,George,Michigan Stove Company,6,1500,H,Detroit,MI,42.332916,-83.047853
+152,Briggs,O,,9,,P,Minneapolis,MN,44.977479,-93.264346
+154,Pease,Albion,,5,,P,Boston,MA,42.358894,-71.056742
+155,Couzens,J,Ford Motor Company,2,,,Detroit,MI,42.332916,-83.047853
+157,Robbins,Thomas,Cleveland Hardware Company,2,800,P,Cleveland,OH,41.505546,-81.6915
+158,Hemenway,H,,2,,H,Colorado Springs,CO,38.835224,-104.819798
+161,Penfield,L,American Clay Machinery Co.,2,,W,Willoughby,OH,41.639717,-81.406723
+163,Fries,Rudolph,,2,,,New York,NY,40.713054,-74.007228
+164,Potter,Alfred,,2,,K,Providence,RI,41.824461,-71.412747
+165,Crowley,D(aniel),Crowley Electric Co.,3,20,D,Duluth,MN,46.782882,-92.105457
+166,Mays,H,,2,,M,Providence,RI,41.824461,-71.412747
+168,Oakes,W,Parry Manufacturing Co.,10,,D,Indianapolis,IN,39.76845,-86.156212
+173,Stillman,Francis,Watson-Stillman Co.,6,200,H,New York,NY,40.713054,-74.007228
+175,,,,2,,,Bridgeport,CT,41.179195,-73.189476
+176,McKinery,J,,3,,M,San Francisco,CA,37.78008,-122.420168
+177,Cowles,William,"""Long Arm"" System Co.",8,130,Barnum,Cleveland,OH,41.505546,-81.6915
+179,Carson,William,,6,,M,Baltimore,MD,39.290443,-76.612333
+180,Tulloch,Don,,2,,,Worcester,MA,42.262073,-71.802278
+181,Gillespie,Thomas,Lockhart Iron and Steel Co.,3,,J,Pittsburgh,PA,40.442169,-79.994945
+183,Merz,Eugene,Heller & Merz; Ultramarine Company,3,20000,,Newark,NJ,40.731507,-74.174388
+184,Elliott,Percival,,2,,W,Boston,MA,42.358894,-71.056742
+185,Hoban,Thomas,,2,,F,St. Louis,MO,38.630276,-90.200309
+186,Atkinson,J,Fowler Packing Co.,3,,A,Kansas city,MO,39.099792,-94.578559
+187,Bishop,K,Bishop & Babcock Co.,3,400,D,Cleveland,OH,41.505546,-81.6915
+191,Nulsen,F,Missouri Malleable Iron Co,3,1000,E,East St. Louis,IL,38.622934,-90.154935
+207,Van Cleave,James,Buck's Stove and Range,10,700,Wallace,St. Louis,MO,38.630276,-90.200309
+208,Kalbfleisch,Franklin,Franklin H. Kalbfleisch Co.,4,,H,New York,NY,40.713054,-74.007228
+209,Troy,E,,4,,J,St. Louis,MO,38.630276,-90.200309
+211,Vance,Wilson,"C.W. Post Press, Ltd.",4,,,New York,NY,40.713054,-74.007228
+213,Jeffrey,Joseph,The Jeffrey Manufacturing Company,3,1000,A,Columbus,OH,39.962649,-82.996216
+214,Carpenter,Charles,Herring-Hall-Marvin Safe Co.,3,2000,U,New York,NY,40.713054,-74.007228
+215,McElroy,W,Hamilton-Brown Shoe Co.,5,,F,St. Louis,MO,38.630276,-90.200309
+216,Vawter,William,Baker-Vawter Co.,5,200,A,Chicago,IL,41.883229,-87.632398
+219,Earhart,G,,2,,W,Quincy,IL,39.93553,-91.388754
+220,Brady,Daniel,Brady Brass Company,2,120,M,Jersey City,NJ,40.717495,-74.044111
+221,Webster,William,,2,,M,Chicago,IL,41.883229,-87.632398
+222,Murray,H,,2,,D,Pittsburgh,PA,40.442169,-79.994945
+223,,,,2,,,Dayton,OH,39.760982,-84.192203
+224,Sayword,William,,2,,H,Boston,MA,42.358894,-71.056742
+225,Sleicher,William,West Side Foundry Co.,3,,N,Troy,NY,42.727684,-73.691059
+226,McGinnis,John,,3,,,Wichita,KS,37.686024,-97.335571
+227,O'Connell,Thomas,,3,,B,Chicago,IL,41.883229,-87.632398
+228,Hines,Edward,"Edward Hines Lumber Company, American Lumber Company",3,,,Chicago,IL,41.883229,-87.632398
+229,Rich,John,Red Wing Sewer Pipe Company,2,250,H,Red Wing,MN,44.566664,-92.534205
+230,Job,Frederick,,4,,W,Chicago,IL,41.883229,-87.632398
+231,Yegge,C,General Box Company,2,,Fred,Chicago,IL,41.883229,-87.632398
+233,Trix,John,American Injector Co.,4,90,,Detroit,MI,42.332916,-83.047853
+234,Craig,George,Port Arthur Rice Milling Company,3,,M,Port Arthur,TX,29.872307,-93.934199
+240,Battelle,J,Columbus Iron & Steel Co.,9,400,G,Columbus,OH,39.962649,-82.996216
+241,Drew,Walter,,4,,,New York,NY,40.713054,-74.007228
+242,Lindenberg,Carl,MC Lilley & Co.,2,800,R,Columbus,OH,39.962649,-82.996216
+243,Dumont,Henry,Trojan Car Coupler,2,,D,New York,NY,40.713054,-74.007228
+244,Melish,William,Bromwell Brush and Wire Goods Co.,2,,B,Cincinnati,OH,39.104427,-84.513808
+245,Townsend,C,Chaplin-Fulton Manufacturing Co.,3,50,W,Pittsburgh,PA,40.442169,-79.994945
+246,Dewolf,Wallace,Kellogg Switchboard & Supply Co.,2,500,L,Chicago,IL,41.883229,-87.632398
+249,Forbes,W,Forbes Lithograph and Manufacturing Co.,2,500,F,Boston,MA,42.358894,-71.056742
+253,Barry,N,Barry Manufacturing Company,2,,,Muscatine,IA,41.420448,-91.044853
+255,Frazier,William,W.S. Frazier Co.,2,,S,Aurora,IL,41.75527,-88.309507
+256,Watkins,J,West Monroe Manufacturing Co.,2,,H,West Monroe,LA,32.520528,-92.146504
+257,Glover,Charles,Corbin Screw Corporation,2,,,New Britain,CT,41.667528,-72.783437
+258,Anthony,Howard,McRae & Roberts Co.,6,250,B,Detroit,MI,42.332916,-83.047853
+260,Armstrong,William,William H. Armstrong Co.,3,,H,Indianapolis,IN,39.76845,-86.156212
+262,Wuest,Robert,,7,,,Cincinnati,OH,39.104427,-84.513808
+263,Gibson,John,,2,,I,Battle Creek,MI,42.31918,-85.182454
+264,Lieber,Otto,The H. Lieber Company,2,200,R,Indianapolis,IN,39.76845,-86.156212
+269,Rider,S,South Bend Watch Company,2,,D,South Bend,IN,41.675032,-86.251962
+270,Holzbog,George,Geo. H. Holzbog and Bro.,2,,H,Jeffersonville,IN,38.299811,-85.72554
+272,Hill,I,U.S. Board and Paper Co.,2,,N,Carthage,IN,39.73995,-85.571362
+273,Loop,J,J.N. Loop & Co.,2,,N,Kokomo,IN,40.486508,-86.131244
+274,Myers,Newton,Jeffersonville Manufacturing Co.,2,,H,Jeffersonville,IN,38.299811,-85.72554
+275,Cooley,J,Ox Valley Canning Company,2,,O,Scottsburg,IN,38.685625,-85.778448
+277,Gates,C,Union Trust Co. Of Indnpls,2,,E,Noblesville,IN,40.045604,-86.012241
+278,Van Spanje,Adolf,Ohlemacher Brick Company,2,,,Michigan City,IN,41.719785,-86.901439
+279,Raymond,P,Adams & Raymond,2,,B,Indianapolis,IN,39.76845,-86.156212
+280,Lucas,Elmer,Patoka Marble Works,2,,,Huntingburg,IN,38.298889,-86.955457
+281,,,Spiegel Furniture Co.,2,70,,Shelbyville,IN,39.52295,-85.777011
+282,Wheeler,W,Wheeler Dressed Beef Co.,2,,H,Indianapolis,IN,39.76845,-86.156212
+283,Voris,C,Crawfordsville Wire and Nail Co.,2,,D,Crawfordsville,IN,40.042859,-86.903342
+284,Palmer,G,G. H. Palmer Co.,2,,H,Sheridan,IN,40.13706,-86.223048
+285,Chilcott,G,Logansport Ice and Cold Storage Co.,2,,,Logansport,IN,40.754493,-86.362997
+286,Dobson,Willis,Klondike Milling Co,2,,A,Danville,IN,39.760764,-86.523873
+287,,,A.B. Nickey & Sons,2,,,Princeton,IN,38.355226,-87.567555
+288,,,Jasper Furniture Co.,2,,,Jasper,IN,38.391483,-86.931758
+289,Iles,O,International Machine Tool Company,2,250,B,Indianapolis,IN,39.76845,-86.156212
+290,Haynes,C,The Haynes Automobile Company,2,500,H,Kokomo,IN,40.486508,-86.131244
+291,Powers,George,The Butler Company,2,,A,Butler,IN,41.429718,-84.871344
+292,Huston,J,Connersville Blower Company,2,150,E,Connersville,IN,39.639413,-85.140889
+293,Doles,Edwin,,2,,E,Greensburg,IN,39.339927,-85.479501
+294,Drake,G,Anderson Canning Co.,2,,W,Anderson,IN,40.107884,-85.67821
+295,Korstad,A,A.P. Korstad Boiler Co.,2,,P,Terre Haute,IN,39.466479,-87.414045
+296,Bowen,W,,2,,J,Hartford City,IN,40.4513,-85.370171
+297,,,Jackson Co. Hoop Co.,2,,,Ewing,IN,38.884701,-86.055298
+298,Miller,David,Nappanee Carriage Co.,2,,F,Nappanee,IN,41.442648,-85.999946
+299,Katterburg,Fred,,2,,B,Huntinburg,IN,38.298889,-86.955457
+300,Carnahan,M,,2,,J,Washington,IN,38.659575,-87.170213
+301,,,William Thies & Son,2,,,Huntinburg,IN,38.298889,-86.955457
+302,Kimbrough,C,Indiana Bridge Co.,2,150,M,Muncie,IN,40.193655,-85.386524
+303,Eastman,T,T. L. Eastman Co. (?),2,,L,Fryeburg,ME,44.014543,-70.983398
+304,Eastman,W,,2,,H,East Sumner,ME,44.356701,-70.3769
+306,Roberts,George,Standard Forgings Company,2,,O,Indiana Harbor,IN,41.64773,-87.45412
+307,Adams,H,HS Adams Lumber Co?,2,,S,Fortville,IN,39.931358,-85.847962
+308,Huesmann,L,Central Supply Company,2,,C,Indianapolis,IN,39.76845,-86.156212
+309,Kurtz,S,Hercules Electric Company,2,,H,Indianapolis,IN,39.76845,-86.156212
+310,Ferris,W,Sidway Mercantile Company,2,,S,Elkhart,IN,41.687381,-85.973536
+311,Dorsey,Dan,Tucker & Dorsey Manufacturing Co.,2,,L,Indianapolis,IN,39.76845,-86.156212
+312,Ford,C,Kokomo Foundry & Machine Works,2,,A,Kokomo,IN,40.486508,-86.131244
+313,Adams,John,The Imperial Mills,2,,A,Brownsburg,IN,39.84334,-86.397957
+315,Ritchie,Morris,Campbell-Smith-Ritchie Co.,2,,,Lebanon,IN,40.048453,-86.469168
+316,Thieme,T,Wayne Knitting Mills,2,1500,F,Fort Wayne,IN,41.077474,-85.137495
+317,,,E. P. Reed & Co.,2,450,,Rochester,NY,43.155708,-77.612547
+318,Winder,S,Marion Iron and Brass Bed Co.,2,,W,Marion,IN,40.551869,-85.668138
+319,Reilly,C,Sandusky Portland Cement Co.,2,,J,Cleveland,OH,41.505546,-81.6915
+320,Johnston,J,Hartford City Glass Co.,2,,R,Hartford City,IN,40.4513,-85.370171
+322,Linton,J,,2,,S,Grand Rapids,MI,42.965446,-85.670209
+324,Eldridge,E,E.H. Eldridge Lumber Company,2,,H,Indianapolis,IN,39.76845,-86.156212
+325,Newkom,W,Indianapolis Chair and Furniture Co.,2,,J,Indianapolis,IN,39.76845,-86.156212
+326,Seiberling,R,Indiana Rubber & Insulated Wire Co.,2,,W,Jonesboro,IN,40.480164,-85.627887
+328,Rubin,Fred,The Bates Forge Co.,2,,W,Indianapolis,IN,39.76845,-86.156212
+329,Bates,F,The Bates Forge Co.,2,,P,Indianapolis,IN,39.76845,-86.156212
+330,Van Camp,Frank,The Van Camp Packing Co.,3,,,Indianapolis,IN,39.76845,-86.156212
+331,Martindale,R,Union Trust Co of Indianapolis,3,,W,Indianapolis,IN,39.76845,-86.156212
+332,Rupe,E,Chandelier & Art Brass Works,2,,H,Richmond,IN,39.827286,-84.890357
+333,Hoyt,C,C. I. Hoyt & Co.,2,,I,Pekin,IN,38.494701,-86.007797
+334,Crawford,B,Crawford & McCrimmon Co.,2,,F,Brazil,IN,39.523628,-87.125187
+335,Dalrymple,J,City Flour Mill and Elevator,2,,W,Rising Sun,IN,38.949838,-84.855266
+336,Golightly,W,Pittsburgh Plate Glass Co.,2,8000,J,Kokomo,IN,40.486508,-86.131244
+337,Hoover,Wilbur,Portland Tile & Hollow Building Block Works,2,,C,Portland,IN,40.43234,-84.977824
+338,Banta,H,Banta Furniture Co.,2,,F,Goshen,IN,41.581218,-85.834392
+339,Hopkins,E,"North, Frazier, & Co.",2,,B,Lynn,IN,40.048577,-84.939985
+341,Buck,C,Clyde D. Buck & Co.,2,,D,Kokomo,IN,40.486508,-86.131244
+342,Miller,O,Standard Chain Co.,2,,E,Marion,IN,40.551869,-85.668138
+343,Post,C,Postum Cereal Company,8,2500,W,Battle Creek,MI,42.31918,-85.182454
+344,Ketcham,John,Brown-Ketcham Iron Works,5,,L,Indianapolis,IN,39.76845,-86.156212
+345,Metcalf,Edwin,International Harvester,5,,D,Auburn,NY,42.931778,-76.56614
+346,Bartlett,C,C.O. Bartlett & Snow company,2,,O,Cleveland,OH,41.505546,-81.6915
+347,Chamberlain,Hiram,Roane Iron Co.,6,1100,S,Chattanooga,TN,35.045756,-85.308287
+348,Hudson,Herbert,Hoyt Metal Co.,3,,Newton,St. Louis,MO,38.630276,-90.200309
+349,Post,George?,Standard Coupler Co.,2,,A?,New York,NY,40.713054,-74.007228
+350,Amory,John,Gas Engine and Power Company,2,300,J,Morris Heights,NY,40.849701,-73.920303
+352,Wood,William,American Woolen Co.,3,20000,M,Boston,MA,42.358894,-71.056742
+357,Briscoe,Benjamin,Maxwell Briscoe Motor Company,2,,,Tarrytown,NY,41.076273,-73.858329
+360,Smith,S,Harlan & Hollingsworth Corporation,3,2000,K,Wilmington,DE,39.744432,-75.5451
+361,Holman,John,Holman Paper Box Co.,2,,B,St. Louis,MO,38.630276,-90.200309
+362,,,Otis Elevator Company,2,8000,,New York,NY,40.713054,-74.007228
+366,Coppins,George,Walworth Manufacturing Company,6,1100,T,Boston,MA,42.358894,-71.056742
+367,Towne,Henry,Yale and Towne Manufacturing Company,6,3500,R,Stamford,CT,41.051924,-73.539475
+370,Anderson,John,Charles Pfizer and Company,2,,,New York,NY,40.713054,-74.007228
+372,Selby,George,Selby Shoe Company,6,1500,D,Portsmouth,OH,38.739972,-82.985267
+374,Selby,Pearl,"Excelsior Shoe Company, Selby Shoe Company",6,900,E,Portsmouth,OH,38.739972,-82.985267
+377,Copeland,Charles,Charles C. Copeland Company,3,,C,New York,NY,40.713054,-74.007228
+378,Mundheim,Samuel,Samuel Mundheim Co.,4,,,Brooklyn,NY,40.692529,-73.990996
+380,McIntosh,John,"McIntosh, Seymour & Company",3,600,E,Auburn,NY,42.931778,-76.56614
+382,Brennan,M,Bucks' Stove and Range,9,,A,St. Louis,MO,38.630276,-90.200309
+383,Cobb,John,,6,,C,Boston,MA,42.358894,-71.056742
+384,Mead,S,,4,,C,New York,NY,40.713054,-74.007228
+385,Joy,Henry,Packard Motor Car Co.,5,1600,B,Detroit,MI,42.332916,-83.047853
+386,Bloomingdale,E,"Hays, Herschfield, and Wolf",2,,W,New York,NY,40.713054,-74.007228
+393,Hawk,H,Postum Cereal Co.,8,,C,Battle Creek,MI,42.31918,-85.182454
+394,Cox,Alfred,Atlantic Works,6,350,E,East Boston,MA,42.375,-71.039703
+396,Penton,John,Penton Publishing Co.,3,,A,Cleveland,OH,41.505546,-81.6915
+398,Noyes,Laverne,Aermotor Co.,4,,W,Chicago,IL,41.883229,-87.632398
+399,Gary,E,US Steel,2,,H,New York,NY,40.713054,-74.007228
+400,Foote,Allen,,2,,B,Columbus,OH,39.962649,-82.996216
+401,Seaman,Howard,E.W. Bliss Company,3,1500,C,Brooklyn,NY,40.692529,-73.990996
+402,Glenn,J,Interstate Iron and Steel Co.,2,900,M,Chicago,IL,41.883229,-87.632398
+403,Copeland,Frederick,Sullivan Machinery Company,3,850,K,Claremont,NH,43.372405,-72.337632
+404,Byles,L,Morris & Company,2,,M,Chicago,IL,41.883229,-87.632398
+408,Eells,Howard,,3,,P,Cleveland,OH,41.505546,-81.6915
+410,Jones,Charles,Dufur & Co.,2,,D,Baltimore,MD,39.290443,-76.612333
+412,Morgan,Henry,,2,,,Philadelphia,PA,39.951061,-75.16562
+413,Langworthy,Edward,Adams & Westlake Co.,2,700,L,Philadelphia,PA,39.951061,-75.16562
+414,Ewell,James,,3,,L,Cleveland,OH,41.505546,-81.6915
+415,Marvin,Winthrop,,2,,L,Boston,MA,42.358894,-71.056742
+416,Goddard,Harry,Spencer Wire Co.,2,400,W,Worcester,MA,42.262073,-71.802278
+417,Wills,Henry,,3,,T,New York,NY,40.713054,-74.007228
+421,Major,Thomas,Roebling Co.,2,,H,Roebling,NJ,40.115938,-74.784313
+422,Roebling,Charles,Roebling Co.,2,6000,George,Roebling,NJ,40.115938,-74.784313
+423,Dolan,Thomas,United Gas Improvement Company,4,,,Philadelphia,PA,39.951061,-75.16562
+454,Barker Sr.,William,William Barker Co.,3,,,Troy,NY,42.727684,-73.691059
+457,Franklin,H,H.H. Franklin Manufacturing Co.,3,1800,H,Syracuse,NY,43.047945,-76.147448
+462,Pratt,F,General Electric Co.,2,,C,Schenectady,NY,42.814219,-73.944103
+468,Noble,Frank,Eastman Kodak Co.,2,,S,Rochester,NY,43.155708,-77.612547
+471,Bailey,Joseph,"E. Bailey & Sons, Inc.",3,300,,Patchogue,NY,40.765689,-73.015139
+473,Mills,William,Tonawanda Iron & Steel Co.,2,250,M,Tonawanda,NY,43.016642,-78.878854
+480,Cornell,Lynn,Jamestown Lounge Co.,3,400,F,Jamestown,NY,42.098961,-79.242051
+486,Marvin,John,L & I. J. White Co.,2,,G.H.,Buffalo,NY,42.887691,-78.879374
+487,Letchworth,Ogden,Pratt & Letchworth Co.,3,1800,P,Buffalo,NY,42.887691,-78.879374
+493,Woodruff,T,Maltine Co.,2,,L,Brooklyn,NY,40.692529,-73.990996
+501,Jones,Edward,Jones of Binghamton,3,,F,Binghamton,NY,42.098702,-75.912543
+505,,,F. C. Huyck and Sons,2,270,,Rensselaer,NY,42.64735,-73.739147
+508,Bates,D,Willcox & Gibbs Sewing Machine Co.,4,,H,New York,NY,40.713054,-74.007228
+513,Schieren,C,Charles A. Schieren Co.,3,,A,New York,NY,40.713054,-74.007228
+519,,,National Enameling & Stamping Co.,2,10000,,New York,NY,40.713054,-74.007228
+522,Moore,Charles,"Manning, Maxwell & Moore",2,,A,New York,NY,40.713054,-74.007228
+525,Paullin,Enos,Ferracute Machine Company,6,170,,Bridgeton,NJ,39.426945,-75.234102
+526,Parry,David,Parry Manufacturing Co.,10,2500,McLean,Indianapolis,IN,39.76845,-86.156212
+527,Humphrey,Arthur,Westinghouse Air Brake Co.,3,4000,L(uther),Wilmerding,PA,40.395394,-79.805374
+528,Brown,C,M.A. Hanna & Co.,2,,W,Cleveland,OH,41.505546,-81.6915
+529,Root,Oliver,,3,,,St. Louis,MO,38.630276,-90.200309
+530,McClave,S,McClave Lumber Co.,5,,Wood,New York,NY,40.713054,-74.007228
+531,Hickok,W,W.O. Hickok Manufacturing Co.,2,,O,Harrisburg,PA,40.259572,-76.881821
+532,Simon,S,Carlyle Johnson Machine Co.,2,,H,Manchester,CT,41.770668,-72.520868
+533,Janssen,B,Janssen Pianos,2,,H,New York,NY,40.713054,-74.007228
+534,Wernicke,Otto,Macey Company,3,300,H.L.,Grand Rapids,MI,42.965446,-85.670209
+535,Brantingham,C,Emerson-Brantingham Co.,3,1000,S,Rockford,IL,42.266802,-89.088377
+536,Nissen,Ludwig,Ludwig Nissen & Co.,5,,,New York,NY,40.713054,-74.007228
+537,Hastings,Herman,,2,,S,Portland,OR,45.516018,-122.681425
+538,Foster,J,F. A. Straus and Co.,2,,W,Trenton,NJ,40.220572,-74.759709
+539,Hand,Harry,William Cramp & Sons Ship and Engine Building Co.,2,6000,W,Philadelphia,PA,39.951061,-75.16562
+540,Keith,Charles,Central Coal & Coke Co. ,4,10000,S,Kansas City,MO,39.099792,-94.578559
+541,Wimpfheimer,Charles,American Velvet Co.,2,,A,New York,NY,40.713054,-74.007228
+542,Ball,James,United Gas Improvement Co.,4,,,Philadelphia,PA,39.951061,-75.16562
+543,Bodine,S,United Gas Improvement Co.,3,,T,Philadelphia,PA,39.951061,-75.16562
+544,McDermott,John,,3,,A,New York,NY,40.713054,-74.007228
+545,Maben,John,Sloss Sheffield Steel & Iron Co.,2,,Campbell,Birmingham,AL,33.522859,-86.807705
+546,Brown,W,"New York Central Lines, Grand Central Terminal",2,,C,New York,NY,40.713054,-74.007228
+548,Moore,Frank,Newton Falls Paper Co.,2,200,L,Watertown,NY,43.972377,-75.911254
+549,Hindley,William,"Pettibone, Mulliken & Co.",2,600,,Chicago,IL,41.883229,-87.632398
+551,Manley,J,Hisey-Wolf Machine Co,4,,M,Cincinnati,OH,39.104427,-84.513808
+553,Tillinghast,A,Grosvenor-Dale Co.,2,,H,Providence,RI,41.824461,-71.412747
+554,Ritter,Henry,Lunkenheimer Co.,2,1500,,Cincinnati,OH,39.104427,-84.513808
+555,Geier,P,Cincinnati Milling Machine Co.,3,1500,Otto,Cincinnati,OH,39.104427,-84.513808
+556,Von Wyck,E,Von Wyck Machine Tool Co.,2,,,Cincinnati,OH,39.104427,-84.513808
+557,Krapp,G,Ahrens-Fox Fire Engine Co.,2,,W,Cincinnati,OH,39.104427,-84.513808
+558,Hobart,James,Triumph Electric Co,3,250,C,Cincinnati,OH,39.104427,-84.513808
+559,Morris,G,John B. Morris Foundry Co.,2,,McG.,Cincinnati,OH,39.104427,-84.513808
+561,Mallinckrodt,Edward,Mallinckrodt Chemical Co,2,600,,St. Louis,MO,38.630276,-90.200309
+562,Baldwin,J,American Dyewood Co.,2,,C,New York,NY,40.713054,-74.007228
+563,Merritt,Schuyler,Yale & Towne Manufacturing Co.,8,,,New York,NY,40.713054,-74.007228
+565,Dodd,William,The National Lock Washer Co.,3,60,C,Newark,NJ,40.731507,-74.174388
+566,Bird,J,,9,,P,New York,NY,40.713054,-74.007228
+567,McCormick,Harold,International Harvester,2,,F,Chicago,IL,41.883229,-87.632398
+569,Rosenfeld,Henry,,2,,L,New York,NY,40.713054,-74.007228
+570,Ranney,G,International Harvester,2,,A,Chicago,IL,41.883229,-87.632398
+571,Judson,L,General Electric CO.,2,,B,Schenectady,NY,42.814219,-73.944103
+573,Geier,Fred,Cincinnati MIlling Machine Co.,3,,A,Cincinnati,OH,39.104427,-84.513808
+574,Robinson,W,H.J. Heinz Company,2,,H,Pittsburgh,PA,40.442169,-79.994945
+575,Johnson,C,Union Lumber Co.,2,,R,San Francisco,CA,37.78008,-122.420168
+576,Broderick,John,Broderick and Bascom Rope Co.,2,200,J,St. Louis,MO,38.630276,-90.200309
+577,Gunn,J,,2,,A,Des Moines,IA,41.588822,-93.620309
+578,Wrightman,G,,3,,A,Des Moines,IA,41.588822,-93.620309
+579,Barker,F,,2,,A,Chicago,IL,41.883229,-87.632398
+580,Dutton,Robert,Fidelity and Casualty Co. of New York,2,,L,St. Louis,MO,38.630276,-90.200309
+581,Wiehe,C,Edward Hines Lumber Co.,8,,F,Chicago,IL,41.883229,-87.632398
+582,Van Houten,E,American Brake Shoe & Foundry Co.,3,,W,New York,NY,40.713054,-74.007228
+583,Faber,Henry,Higgin Manufacturing Co.,3,275,A,Newport,KY,39.091662,-84.495641
+584,Norris,Samuel,United States Rubber Co.,2,20000,,New York,NY,40.713054,-74.007228
+585,Williams,E,Rubber Goods Manufacturing Co.,2,,S,New York,NY,40.713054,-74.007228
+586,Daniel,Charles,Quaker City Rubber Co.,2,300,A,Philadelphia,PA,39.951061,-75.16562
+587,Parmly,J,Willcox & Gibbs Sewing Machine Co.,4,,,New York,NY,40.713054,-74.007228
+588,Jansen,H,,2,,A,Moline,IL,41.492225,-90.489271
+589,Banister,R,Woodward Iron Co.,2,5000,H,Woodward,AL,32.756889,-86.844516
+590,See,Alonzo,A. B. See Electric Elevator Co.,3,,B,New York,NY,40.713054,-74.007228
+591,Yeiser,H,Globe Wernicke Co.,2,,C,Cincinnati,OH,39.104427,-84.513808
+592,McCloskey,H,Goodyear Tire and Rubber Co.,2,,H,Akron,OH,41.084821,-81.515607
+598,King,Charles,Brown Shoe Co.,2,,P.,St. Louis,MO,38.630276,-90.200309
+599,Pike,Edwin,Pike Manufacturing Company,9,250,B,Pike Station,NH,43.70518,-71.75544
+600,Gates,P,Eagle Works Manufacturing Company; Allis-Chalmers Co.,2,,W,Chicago,IL,41.883229,-87.632398
+601,Cheney,F,Cheney Brothers,2,,W,South Manchester,CT,41.805536,-72.516789
+602,Gordon,Fred,Pratt & Whitney Co. Machine Tools,2,,W,Hartford,CT,41.765775,-72.673356
+603,Roberts,H,Keystone Watch Case Co.,2,,L,Philadelphia,PA,39.951061,-75.16562
+604,Smith,J,"Sprout, Waldron & Co.",2,,Russell,Muncy,PA,41.20237,-76.786061
+605,Muzzy,T,J. Stevens Arms & Tool Co.,2,,E,Chicopee Falls,MA,42.152038,-72.575922
+606,Spaulding,W,Graton & Knight Mfg Co.,2,,M,Worcester,MA,42.262073,-71.802278
+607,Jones Jr.,James,"J. Jones & Son, General Electrical Supplies",2,,,New York,NY,40.713054,-74.007228
+608,Hatch,V,Diamond Machine Co.,2,,F,Providence,RI,41.824461,-71.412747
+609,,,Gilbert & Bennett Mfg Co.,2,,,Georgetown,CT,41.255766,-73.434803
+610,,,"Cluett, Peabody & Co.",2,,,Troy,NY,42.727684,-73.691059
+611,Turner,H,E and T Fairbanks and Company,2,,N,St. Johnsbury,VT,44.419289,-72.015541
+612,Inglis,James,American Blower Co.,5,,,Detroit,MI,42.332916,-83.047853
+613,Levagood,M,Western Automatic Machine Screw Co.,2,,H,Elyria,OH,41.367714,-82.10782
+614,,,American Steam Pump Co.,2,,,Battle Creek,MI,42.31918,-85.182454
+615,McFerson,Theodore,McFerson & Foster,5,50,R,Evansville,IN,37.975708,-87.569907
+616,,,Arthur Kirk & Son,2,,,Pittsburgh,PA,40.442169,-79.994945
+617,,,Kelley & Lysle Milling Co.,2,,,Leavenworth,KS,39.32746,-94.918953
+618,Pike,E,Pike Manufacturing Co,8,,Bertram,Pike Station,NH,43.70518,-71.75544
+619,Manton,Frank,American Ship Windlass Co.,3,175,S,Providence,RI,41.824461,-71.412747
+621,Thomas,,Lyon Lumber Co.,2,,,Hughesville,PA,41.240167,-76.731256
+622,Meehan,David,The Iron-Clay Brick Co.,2,,C,Columbus,OH,39.962649,-82.996216
+623,Stearns,George,Riverside Mills,2,,A,Augusta,GA,33.472494,-81.964397
+624,Strait,H,H.N. Strait Manufacturing Co.,2,,N,Kansas City,KS,39.1127,-94.626804
+625,Kinney,H,Winona Wagon Co.,2,,M,Winona,MN,44.049877,-91.639366
+626,Gettys,R,Knoxville Woolen Mills,2,,P,Knoxville,TN,35.962631,-83.916677
+627,Mitchell,C,Chattanooga Plow Co.,2,,D,Chattanooga,TN,35.045756,-85.308287
+628,Teal,H,United States Head-Light Co.,2,,S,Buffalo,NY,42.887691,-78.879374
+629,Cutler,Otis,American Brake Shoe & Foundry Co.,3,,H,New York,NY,40.713054,-74.007228
+631,Wilson,Samuel,Great Western Manufacturing Co.,2,,H,Leavenworth,KS,39.32746,-94.918953
+632,Todd,George,Todd-Obenstein Co.,2,,D,New Albany,IN,38.283507,-85.823002
+633,Fairbanks,Henry,E & T Fairbanks & Co.,2,,,St. Johnsbury,VT,44.419289,-72.015541
+634,Fay,Charles,Fay-Sholes Co.; Arithmograph co,3,35,Norman,Chicago,IL,41.883229,-87.632398
+635,Brennan,F,N.K. Fairbank Co.,2,,H,Chicago,IL,41.883229,-87.632398
+636,,,D.W. Alderman and Sons Co.,2,,,Alcolu,SC,33.746574,-80.216384
+644,Brayton,Edward,Pelton Water Wheel Co.,2,,L,San Francisco,CA,37.78008,-122.420168
+645,Smyth,Ellison,Pelzer Manufacturing Co.,2,,A,Pelzer,SC,34.646236,-82.463545
+646,Parker,Lewis,Victor Manufacturing Co.,2,,W,Greers,SC,32.59352,-80.126
+647,Brittain,John,John S. Brittain Dry Goods Company,2,,S,St. Joseph,MO,39.768194,-94.848164
+648,,,"Gladding, McBean, & Co.",2,,,San Francisco,CA,37.78008,-122.420168
+649,Logan,Albert,A. J. Logan Co.,2,,J,Pittsburgh,PA,40.442169,-79.994945
+650,Tynes,W,Hardie-Tynes Manufacturing Co.,2,,D,Birmingham,AL,33.522859,-86.807705
+651,Schuler,George,Alabama Steel & Wire Co.; Southern Steel,3,4500,H,Gadsden,AL,34.011579,-86.021173
+652,Hudson,Franklin,Hudson-Kimberly Publishing Co.,2,,,Kansas City,MO,39.099792,-94.578559
+653,Wood,Fred,Maryland Steel Company of Baltimore County,2,,W,Sparrows Point,MD,39.2192,-76.476402
+654,Jordan,G,"Eagle and Phenix Mills, Bibb Manufacturing",2,1500,Gunby,Columbus,GA,32.466682,-84.990405
+655,Hannam,W,Western Sugar Refining Co.,2,,H,San Francisco,CA,37.78008,-122.420168
+656,Spreckels,J,Western Sugar Refining Co.,2,,D,San Francisco,CA,37.78008,-122.420168
+657,Kendall,N,Yale Brewing Co.,2,,W,New Haven,CT,41.308252,-72.924161
+658,Bernard,E,E.G. Bernard Company,2,,G,Troy,NY,42.727684,-73.691059
+659,Howard,Gibson,Howard Iron Works; others?,2,,,Buffalo,NY,42.887691,-78.879374
+660,,,Hall & Co./Jamestown Worsted Mills,2,,,Jamestown,NY,42.098961,-79.242051
+661,Griggs,W,Jamestown Lounge Co.,3,,E,Jamestown,NY,42.098961,-79.242051
+662,Broadhead,S,Broadhead Worsted Mills,2,,B,Jamestown,NY,42.098961,-79.242051
+663,Eliot,H,Hydraulic-Press Brick Co.,2,,W,St. Louis,MO,38.630276,-90.200309
+664,Becktold,William,Becktold Printing and Book Manufacturing Co.,2,,B,St. Louis,MO,38.630276,-90.200309
+665,Bootey,A,,3,,J,Jamestown,NY,42.098961,-79.242051
+666,Gould,S,Goulds Manufacturing Co.,2,,S,Seneca Falls,NY,42.908615,-76.796041
+667,,,James McKinney & Sons,2,,,Albany,NY,42.651242,-73.755418
+668,Forsyth,James,Boston Belting Company,2,,Bennett,Boston,MA,42.358894,-71.056742
+669,Foss,E,B.F. Sturtevant Co.,2,,N,Boston,MA,42.358894,-71.056742
+670,Barr,H,H.G. Barr & Co.,2,,G,Worcester,MA,42.262073,-71.802278
+671,,,D.F. Briggs Co.,2,,,Attleboro,MA,41.944543,-71.284088
+672,,,Belcher & Taylor Agricultural Tool Co.,2,,,Chicopee Falls,MA,42.152038,-72.575922
+673,Kent,John,M.A. Packard Co.,2,,S,Brockton,MA,42.083299,-71.019903
+674,Hamlin,Edwin,Chase-Shawmut Co.,2,,M,Newburyport,MA,42.809733,-70.876736
+675,Reed,F,F.E. Reed Co.,2,,E,Worcester,MA,42.262073,-71.802278
+676,Look,Frank,Florence Manufacturing Co.,2,,N,Florence,MA,42.335602,-72.672203
+677,Medart,William,Medart Patent Pulley Co.,2,,,St. Louis,MO,38.630276,-90.200309
+678,Medart,Philip,Medart Patent Pulley Co.,2,,,St. Louis,MO,38.630276,-90.200309
+679,Gleason,W,Revere Rubber Co.,2,,H,Boston,MA,42.358894,-71.056742
+680,Morgan,Paul,Morgan Construction Co.,2,,B,Worcester,MA,42.262073,-71.802278
+681,Bane,Oscar,Georgia Marble Co.,2,,F,Tate,GA,34.418301,-84.382797
+682,Scott,Z(ar),Scott-Graff Lumber Co.,2,,D(elevan),Duluth,MN,46.782882,-92.105457
+683,Duke,James,J.G. Duke Machine Works,2,,G,Memphis,TN,35.143378,-90.052136
+684,Johnson,W,Johnson Service Company,2,,S,Milwaukee,WI,43.041072,-87.909421
+685,Johnson,Lewis,Johnson Iron Works,2,,,New Orleans,LA,29.950621,-90.074948
+686,Truscott,J,Truscott Boat Manufacturing Co.,2,,M,St. Joseph,MI,42.110545,-86.479361
+687,Merrifield,W,Stover Manufacturing Co.,2,,A,Freeport,IL,42.290254,-89.631818
+688,Washburn,John,Washburn-Crosby Co.,2,,,Minneapolis,MN,44.977479,-93.264346
+689,,,Skandia Furniture Co.,2,,,Rockford,IL,42.266802,-89.088377
+690,Connell,J,J. D. Connell Iron Works,2,,D,New Orleans,LA,29.950621,-90.074948
+691,Vogel,Aug.,Pfister & Vogel Leather Co.,2,,H,Milwaukee,WI,43.041072,-87.909421
+692,Smith,Charles,C.A. Smith Timber Co.; C.A. Smith Lumber Co.,3,1000,Axel,Minneapolis,MN,44.977479,-93.264346
+693,Tallmadge,W,Excelsior Wrapper Co.,3,100,E,Grand Rapids,MI,42.965446,-85.670209
+694,Cist,H,Hydraulic Press Brick Co.,2,,W,St. Louis,MO,38.630276,-90.200309
+695,Morgan,J,American Spinning Co.,2,,H,Greenville,SC,34.850746,-82.398964
+696,,,Frankfort Chair Co.,2,,,Frankfort,KY,38.201005,-84.87329
+697,Corbin,George,Corbin Cabinet Lock; Corbin Screw Corporation; P. & F. Corbin; Corbin Motor Vehicle,3,,W,New Britain,CT,41.667528,-72.783437
+699,,,Blue Ridge Marble Company,2,,,Nelson,GA,34.38358,-84.375025
+701,Smith,Charles,Western Wheeled Scraper Company,3,,H,Aurora,IL,41.75527,-88.309507
+702,Wendt,W,Buffalo Forge Co.,2,,F,Buffalo,NY,42.887691,-78.879374
+703,Adt,Albert,John B. Adt Machine Works,2,,W,Baltimore,MD,39.290443,-76.612333
+704,Stratton,C,Curtis Manufacturing Co.,2,,G,Worcester,MA,42.262073,-71.802278
+705,Swank,James,,4,,M,Philadelphia,PA,39.951061,-75.16562
+706,McKaig,Merwin,"Cumberland Steel, Wellington Glass, McKaig Machine, Foundry and Supply Works",2,,,Cumberland,MD,39.647979,-78.761152
+707,Dimmick,J,Dimmick Pipe Co.,2,,D,Birmingham,AL,33.522859,-86.807705
+708,Skinner,B,Advance Thresher Company,4,575,T,Battle Creek,MI,42.31918,-85.182454
+710,Mueller,Adolph,H. Mueller Manufacturing Co.,2,,,Decatur,IL,39.841454,-88.955851
+711,Dalley,Henry,"Lazell, Dalley & Co.",2,,,New York,NY,40.713054,-74.007228
+712,Montgomery,Charles,,3,,C,Omaha,NE,41.258652,-95.937195
+714,More,Richard,More-Jonas Glass Co.,2,250,M,Bridgeton,NJ,39.426945,-75.234102
+715,Kriegshaber,Victor,"Atlanta Terra Cotta Company, V.H. Kriegshaber and Sons",2,,Hugo,Atlanta,GA,33.748547,-84.391502
+717,Fink,C,International Harvester,5,,S,Chicago,IL,41.883229,-87.632398
+719,Marshall,A,AC Marshall?,5,,C,Dayton,OH,39.760982,-84.192203
+721,Elsas,Oscar,Fulton Bag and Cotton Mills,2,1000,,Atlanta,GA,33.748547,-84.391502
+722,McCarroll,William,American Leather Co.,7,,,Morningside,NY,42.921241,-75.59655
+724,Durand,Elliot,Heath & Milligan Manufacturing Co.,4,,,Chicago,IL,41.883229,-87.632398
+729,Durban,Thomas,Erie City Iron Works,4,490,E,Erie,PA,42.127951,-80.08258
+730,Murray,C,Empire Rubber Manufacturing Co.,2,,Edward,Trenton,NJ,40.220572,-74.759709
+731,Harris,E,E.H. Harris & Co.,3,,H,New York,NY,40.713054,-74.007228
+734,Keller,Emil,Westinghouse Machine Co.,4,2500,E,East Pittsburgh,PA,40.400715,-79.834023
+735,Clarke,Albert,,5,,,Boston,MA,42.358894,-71.056742
+736,Marsh,Joseph,Standard Underground Cable Co.,2,,W,Pittsburgh,PA,40.442169,-79.994945
+737,Knight,Norman,Farrell Foundry & Machine Co.,2,,P,Ansonia,CT,41.34198,-73.078296
+738,Dudley,R,Gray & Dudley Hardware Company,2,,M,Nashville,TN,36.166687,-86.779932
+740,Winston,John,John C. Winston Co.,4,,C,Philadelphia,PA,39.951061,-75.16562
+741,Howe,George,Carter Howe and Company,2,250,R,Newark,NJ,40.731507,-74.174388
+742,Wood,Walter,R.D. Wood & Co.,3,900,,Philadelphia,PA,39.951061,-75.16562
+743,Barton,P,Niagara Falls Power Company,2,,P,Niagara Falls,NY,43.094464,-79.056432
+744,Jenkinson,Richard,RC Jenkinson Co.,3,,C,Newark,NJ,40.731507,-74.174388
+745,Kurtz,Julius,"Emerson, Smith & Co. Ltd.",2,,F,Beaver Falls,PA,40.755968,-80.319427
+746,,,Morrison Manufacturing Co.,2,,,Ft. Madison,IA,40.630024,-91.313494
+747,Briggs,Frank,Roebling Co.,2,,O,Trenton,NJ,40.220572,-74.759709
+748,Tatum,A,"Whitall, Tatum & Co?",2,2000,J,Millville,NJ,39.395373,-75.038458
+749,Plummer,William,Leviathan Belting,3,,T,Philadelphia,PA,39.951061,-75.16562
+750,Bond,W,Weaver Organ & Piano Co,2,,S,York,PA,39.960339,-76.734668
+751,McGary,S,,2,,F,Philadelphia,PA,39.951061,-75.16562
+752,Hornbrooke,E,,2,,G,Kansas City,MO,39.099792,-94.578559
+753,Clark,Homer,West Publishing Company,3,600,P(ierce),St. Paul,MN,44.943719,-93.094281
+755,Flather,Frederick,Boott MIlls Co.,2,,A,Lowell,MA,42.645426,-71.3074
+756,Henry,George,"J.N. Struck & Bro, Lumber",3,99,,Louisville,KY,38.256078,-85.751569
+757,Hildreth,Charles,Whitcomb-Blaisdell Machine Tool Co.,3,,E,Worcester,MA,42.262073,-71.802278
+758,Aldrich,A,Beloit Iron Works,2,,,Beloit,WI,42.499646,-89.033615
+759,Spear,E,Cheney Bigelow Wire Works,2,,C,Springfield,MA,42.102051,-72.585757
+760,Laughlin,Thomas,Thomas Laughlin Co.,3,140,S,Portland,ME,43.659218,-70.256519
+761,,,R.S. Brine Co.,2,,,Boston,MA,42.358894,-71.056742
+762,Powell,T,Globe Drug Co.,2,,M,Hazleton,PA,40.960001,-75.974446
+763,York Jr.,B,,2,,R,Damariscotta Mills,,44.061901,-69.5242
+764,Waltz,Charles,,4,,F,Cincinnati,OH,39.104427,-84.513808
+765,Woodbury,Melville,"Millett, Woodbury, and Co.",2,,,Beverly,MA,42.552163,-70.882679
+767,Bonner,H,"Haines, Jones, and Cadbury Co.",2,,T,Philadelphia,PA,39.951061,-75.16562
+768,Davis,C,Lovell & Buffington Tobacco Co.,2,,J,Covington,KY,39.083687,-84.508483
+770,Bruce,W,"Bruce, Merritt & Abbott; Bowler Foundry Co",2,,C,Cleveland,OH,41.505546,-81.6915
+771,Sayle,W,Cleveland Punch and Shear Works Co,5,,D,Cleveland,OH,41.505546,-81.6915
+773,Barker,Melville,American Tool and Machine Co.,3,350,H,Boston,MA,42.358894,-71.056742
+774,Bullard,A,Bullard Machine Tool Co.,3,900,H,Bridgeport,CT,41.179195,-73.189476
+775,Blakeney,W,"Crawford, McGregor & Canby co.; Dayton Last Works?",2,,J,Dayton,OH,39.760982,-84.192203
+776,Stephens,George,Moline Plow Company,3,3000,A,Moline,IL,41.492225,-90.489271
+778,Wilson,George,F. Cortez & Wilson Co.,2,,Landis,Chicago,IL,41.883229,-87.632398
+779,West,Charles,West Publishing Co.,2,,W,St. Paul,MN,44.943719,-93.094281
+780,Barnard,George,George D. Barnard & Co.,2,,D,St. Louis,MO,38.630276,-90.200309
+781,Gard,John,John T. Gard & Son,3,,T,Buffalo,NY,42.887691,-78.879374
