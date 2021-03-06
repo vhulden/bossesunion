@@ -1,5 +1,12 @@
 # Mapping people
 
+## Map of NAM members in St. Louis
+
+The data for this and its geocoding explanation are in the [socialnetwork](https://github.com/vhulden/governmentbythebosses/tree/main/socialnetwork) folder, because the residence information is also used in linking people into a network.
+
+From that geocoded data, I simply took the NAM members and made [a map](https://api.mapbox.com/styles/v1/vhulden/ckkqo3fzq1mgw17mm6f74ha9s.html?fresh=true&title=copy&access_token=pk.eyJ1Ijoidmh1bGRlbiIsImEiOiJjaXhkYzFmc3UwMGtnMm9sZnZob2psbmJlIn0.cdxpQbloljQQ7KtgZHkKJQ) with MapBox Studio. 
+
+
 ## Heatmap of active NAM members
 
 As explained in the membersinfo folder, I have a list of "active" NAM members. For the map, I took everyone with a score of 2 or more.  From that list, I took just their ID and the city and state in which they lived. Then I fed that a into the [GPS Visualizer](https://www.gpsvisualizer.com/geocoder/), which returns a geocoded file (where the city&state info gets a latitude and longitude). The file with all that info is `nam-activemembers-states.csv`.
