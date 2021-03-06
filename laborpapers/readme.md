@@ -17,7 +17,7 @@ The script `topiccomp-averages-by-sn.py` aggregates the topic modeling results f
 First, to create the mallet:
 
 ```
-mallet import-dir --input newspapers/ --output laboretal.mallet --keep-sequence --remove-stopwords --extra-stopwords extrastops.txt
+mallet import-dir --input newspaperchunks/ --output laboretal.mallet --keep-sequence --remove-stopwords --extra-stopwords extrastops.txt
 ```
 
 Then, to train the topic model:
@@ -26,4 +26,4 @@ Then, to train the topic model:
 mallet train-topics  --input laboretal.mallet  --num-topics 150 --num-iterations 1000 --optimize-interval 10 --random-seed 1 --output-state laboretal_150_topic-state-1.gz  --output-topic-keys laboretal_150_keys-1.txt --output-doc-topics laboretal_150_composition-1.txt
 ```
 
-(I've also uploaded the `extrastops.txt` and the `laboretal.mallet` files.)
+(I've also uploaded the `extrastops.txt` and the `laboretal.mallet` files. Note that the `newspaperchunks` in the mallet creation is the newspaper texts chunked into smaller files; a newspaper page isn't a very meaningful document for the purposes of topic modeling. The chunking was done with a script along the lines of `splitonregex.py`, so that the "regex" was four or more consecutive capital letters---headlines are often enough in all caps that that tended to work.)
