@@ -63,6 +63,13 @@ Open in RStudio for smoothing (I’m using smoothing of 7 - I tried using 3 to r
 
 Next, got rid of the old columns and renamed the new, rolling mean columns. Also cut out the earliest and the latest years, so it’s now 1880-2010.
 
+Then we need to "stack" the data or convert it from "wide" to "long" – here's an [explanation and instructions](https://towardsdatascience.com/reshape-r-dataframes-wide-to-long-with-melt-tutorial-and-visualization-ddf130cd9299). The command is the following:
+
+```
+> data_long <- melt(data = newdata, id.vars = "year", variable.name = "term", value.name = "percentage")
+```
+
+
 So now it looks like this:
 
 <img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/datarows.png" width=150 height=218 alt="data in rows">
