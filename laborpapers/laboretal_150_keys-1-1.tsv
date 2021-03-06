@@ -1,0 +1,151 @@
+DEM topic	LABOR top	topic#	definition	weight	words
+		0	"railroads, trusts"	0.01444	company railroad trust commission corporation rates companies railroads steel states commerce united interstate business stock government rate railway law york 
+		1	cattle markets	0.00497	days cent market omaha cattle york week year hogs sheep receipts stock east south packing weeks west fine london spot 
+		2	railway time tables	0.00588	city kittitas local ellensburg chicago express limited dawn north yakima thorp cle seattle washington pin special twin roslyn pra kllensburg 
+		3	financial/markets	0.02297	year cent total increase years number states average cost amount report cents united increased figures rate census population month paid 
+		4	grain markets	0.00854	wheat market corn white july steady receipts firm yellow hard closed oats higher lower winter cash shipments september bushels spring 
+		5	"military, mexico"	0.01388	army general war troops soldiers mexico men government captain military officers city mexican american fort united colonel states lieutenant major 
+6		6	funerals	0.02093	years mrs died death home funeral morning held hospital city o'clock afternoon ago cemetery age wife family services church aged 
+	7	7	ads in labor papers	0.01617	phone everett hewitt main phones work goods office store union street works wash aye avenue company ind lincoln auto prices 
+		8		0.00667	lynden printing tribune bellingham union wood job work business wash princeton company good van office seattle prices whatcom crabtree den 
+	9	9	"analysis, principles, ideals"	0.04578	people men man great country life good public law power world government american time true things fact human free political 
+		10		0.00641	fairmont salary geo jacobs harry hartley howard streets supplies main street bell work poor haymond cleaning agent meredith shaw phone 
+		11		0.0034	home canada treatment free send write yon box cure dame address canadian notre alberta western railway mrs saskatchewan climate simple 
+		12	"balls, celebrations, picnics"	0.03473	day evening city held fair night afternoon hall program members large people time band number o'clock big morning week show 
+		13	"classifieds, personal/medical"	0.01895	omaha douglas farnam bldg tel doug phone bee call harney blk office neb ind loan phones red ave room city 
+		14		0.00864	york chicago boston louis philadelphia cleveland league a.m city detroit american cincinnati washington pittsburg brooklyn p.m national clubs minneapolis milwaukee 
+15		15	"court, probate"	0.00675	court county probate estate petition minnesota state decedent day granted hearing time matter seal judge order morrison house o'clock persons 
+		16	railroad timetables	0.01963	pacific trip chicago train san agent railroad time northern trains line west coast railway city california francisco june tickets points 
+		17	ads for remedies	0.0057	cure catarrh hall's toledo cheney mucous druggists cured sold blood piles surfaces system family case free directly disease testimonials internally 
+		18		0.00283	oil olive side complete label save fact raise dig move foundations build workmanlike cellars manner company laundry starch box skipper 
+		19		0.00856	cook pole miles air north york peary aeroplane flight machine balloon aviator comet expedition wright record feet fly airship flying 
+		20		0.00245	alias ernest ttie cody mckay isaacs arid monti jeanie iie atid kirn marie wth tat r'v v't mckim irai tmrt 
+		21	foodstuff and farm machinery ads	0.01398	flour lumber line phone paint store hardware stock prices feed mccook druggist wall paper complete goods good kinds main sale 
+		22	personal news?	0.00528	miss mrs fairmont calling run mary morgan hawkins visiting harris amos grace davis thomas watson swisher john edna district martin 
+		23	"sports, baseball"	0.01432	game team ball score played season play games baseball league teams field players good base high men year line manager 
+		24	foreign policy/news	0.01851	american king united states government london british england country foreign german chinese germany japanese france great china japan prince french 
+25		25	"railroads, RR accidents"	0.017	train car injured railroad cars killed accident engine track freight passenger engineer man men street city automobile miles morning broken 
+		26	construction	0.03196	building work company road feet water river line plant city construction roads built time completed miles cost bridge street railroad 
+		27	OCRjunk	0.08214	ana tne ill tor lor iii lit til ail win mil tit mat fit tot tie inn lis fur ine 
+		28	fruit ads	0.00856	box fancy pound stamps california oranges lbs fresh fruit cans large coffee extra dozen green sunkist butter bottle apples pkg 
+29		29	accidents and (mis)adventures	0.04004	back time man left feet men head found long side night hand end day body ground place water face open 
+30		30	ads for remedies	0.01652	stomach blood health medicine women medical treatment cure food liver free remedy diseases disease compound weak system good vegetable years 
+		31		0.00363	land notice office township range entry wash homestead contest due months advance application march publication united section minn affidavit states 
+32		32	crime	0.02459	police jail men court arrested charge man county city charged guilty grand jury found arrest case morning money justice sheriff 
+		33		0.00588	street south north omaha neb avenue streets boy girl day park sixteenth farnam twentieth ave tenth nineteenth thirteenth business howard 
+		34	"ads for dictionaries, stationary, mortgages"	0.01676	book send free books paper letter cards mail stamps address write card printed copy city post business order office library 
+		35	OCRjunk	0.02918	tor arid end tie toe iii yon thi ter tit hot iff toy thp win ment fit ahd hie ore 
+		36	county affairs	0.00925	county board road district work commissioners state labor fund school clerk supplies motion tax fees total auditor treasurer town court 
+		37	state politics	0.01879	state republican governor party democratic senator candidate political democrats election county campaign republicans people legislature states bryan congress vote convention 
+		38	weather	0.01831	nebraska neb city omaha lincoln iowa temperature today weather kansas clear moines island special state des cloudy march telegram inches 
+		39	farm land for sale	0.02454	land acres acre good farm miles lands county price terms town sale water house write improved timber farms property fine 
+		40	OCRjunk	0.03551	tha waa ths haa hla thla today tho snd year aad hav day tne tor mora moat mad ana baa 
+	41	41	"official notices, summons, land"	0.00809	county court plaintiff state day complaint minnesota answer estate office district action louis real interest defendants land sale days named 
+	42	42	"official notices, estates"	0.01063	estate county court washington deceased day notice state whitman order publication superior persons matter petition administrator account date claims interested 
+		43	liquor license notices	0.01081	mccook nebraska city county red willow lincoln day neb office tribune indianola oclock denver application cook building room tho cambridge 
+		44	piano music (concerts?)	0.0074	piano music pianos musical solo concert band records orchestra free song program violin recitation instrument vocal victor instruments recital player 
+		45	personal news?	0.00626	city morning yesterday evening business home night mrs returned spent company bemidji left visit train today days afternoon trip friends 
+		46	"sports, races"	0.01022	race won time club mile match meet champion races fight track tournament championship johnson record event purse round contest events 
+		47	OCRjunk	0.00637	aad tba aaa taa baa ara tar aat tka bar tea caa par aaaa ail bat ana art tbe aar 
+		48	apartments for rent?	0.02031	room house modern lot rooms street good floor water large car price home city front ave bldg lots heat fine 
+		49	recipes	0.01403	water add milk sugar put hot butter salt cream half cup bread cold flour eggs cut coffee meat serve minutes 
+		50	schools	0.02329	school schools high college university teachers work class normal students year education superintendent board state training pupils boys department prof 
+		51	cattle and horses	0.01336	horses horse milk farm years cow cows pounds sale good weight dairy harness stock cattle head cream mare hay year 
+		52		0.00765	princeton minneapolis mrs village milaca lacs mille farm good brook paul monday evening union anderson johnson chas john county henry 
+		53		0.00261	northern sept july chicago wheat dec good choice steers minneapolis paul grain hard cows oct arrive heavy duluth stock heifers 
+		54	city council	0.01214	city street council water ordinance mayor streets bonds meeting clerk committee property improvement company license light paving cost report main 
+		55		0.00333	lat gen coupon ado ref deb int ohio col colo lit ret mid dinner reg ind set sen rat armour 
+56		56	fires	0.01828	fire loss burned destroyed building damage explosion fires city men flames injured persons killed dead forest storm house town insurance 
+		57		0.00287	pharmacy drug ave farnam park ads word leavenworth insertion hill florence cuming benson john neb bee aad sta tka cut 
+		58	"theater, opera"	0.0158	play company theater night miss comedy stage house opera show pictures picture grand week season act theatre performance musical evening 
+		59	professional services ads	0.00869	office phone building law block wash attorney residence fairmont main street bank washington bell surgeon telephone practice hall wenatchee notary 
+		60	meetings/conventions	0.02996	meeting association convention held president committee state secretary officers club members annual board delegates elected session city national present business 
+		61	"church, bible passages?"	0.00313	god christ thou world thy lord jesus death divine duluth love sin arj bible great kingdom god's thee life spirit 
+		62		0.00527	omaha moines city total totals des lincoln denver topeka sioux wichita joseph pueblo score game beat league alleys high games 
+		63	OCRjunk	0.08806	ami lie tin ihe tlie nnd thai ill anil hut nil tho tor tie tbe lor iii lias arc ion 
+		64		0.00343	stove polish black chains silk dealer degrees hospital trained lands home shine flour treatment sold equipped low institution don't comfort 
+	65	65	union meetings	0.00347	union meets hall president secretary ist temple labor month workers everett tuesday sec friday evening pres local wednesday council shingle 
+		66	ads for singing lessons?	0.00219	vols cameron art lea lessons singing offered attention appointment free honest exceptional lesson opera dramatic lester paris advice oratory consultation 
+		67	"courts, supreme court"	0.01814	court judge case supreme jury attorney district justice decision cases suit trial law company states state term united defendant courts 
+		68	fiction?	0.00893	don't it's good man i'm that's ain't can't didn't pay he's i'll business jim you're there's won't system dat i've 
+		69	farm product prices?	0.00321	ton oregon washington poultry red valley small club eastern alfalfa prices fence watch crop american russian butter services pleased number 
+		70	personal news	0.01093	mrs miss street city home yesterday returned guest visit fairmont days avenue relatives spent daughter guests evening son morgantown weeks 
+		71	church affairs	0.00937	church rev bishop christian pastor methodist churches catholic conference baptist episcopal presbyterian missionary work minister sunday ministers city father congregation 
+		72	lodge meetings	0.00422	regular hall meeting o'clock odd fellows nights lodge ave beltrami evening bemidji fourth masonic wednesday monday month meetings wednesdays tuesday 
+		73	poultry (ads?)	0.00822	eggs fish poultry birds game white hen hens chickens bird turkeys ducks fowls egg full dog season dogs animals geese 
+		74		0.01682	christmas gold store gifts sets jewelry silver gift watch set line prices diamond holiday watches xmas hand large special fancy 
+		75		0.00621	quarter section north line feet township west range east south southeast county northwest northeast corner southwest half point beginning lands 
+	76	76	OCRjunk	0.07741	lie con hat ind day tor ion ill thi fairmont time tie to-day tin ire lis pro ere ant tlie 
+		77	ads (we have better prices)	0.03911	price prices cents sale goods stock buy sell money sold store market pay business cent cash cost high give selling 
+		78	church and Sunday school	0.01013	sunday church school evening services service rev morning pastor o'clock meeting sermon subject held christian invited preaching wednesday prayer methodist 
+		79		0.01092	seattle leavenworth washington wenatchee spokane valley wash county apple week fruit land echo state town apples chelan walla oregon northern 
+		80	OCRjunk	0.03447	tho nnd fairmont lie tlio anil west arc tor to-day aro tills nil ills day tlie ono virginian ami tbo 
+		81	lists of names	0.0441	john smith george mrs william frank charles james henry thomas johnson fred miller mary harry jones brown martin robert clark 
+		82	lumber ads (bemidji)	0.01451	bemidji minn pioneer ave minnesota inquire lumber phone building avenue office call house city beltrami wholesale lots und good orders 
+		83		0.00433	bids bid office received contract sealed specifications reject plans engineer proposals milaca princeton opened reserves construction check information bidder notice 
+		84	train schedules?	0.00445	bound leaves south north east west freight arrive fairmont leave local sunday arrives dally clarksburg p.m branch schedule boundleaves lake 
+		85	"WV company charters, organizations"	0.02065	west virginia clarksburg county fairmont company wheeling ohio state tho charleston city baltimore davis scott grafton harrison salem huntington john 
+		86	"classifieds, office/housing"	0.00977	apply street fairmont word avenue cent rent ward wanted office room cash copy good house rooms west sale rate ave 
+		87	cattle markets	0.00454	market good steers lambs feeders cows head fair choice western receipts heifers cattle stock steady sheep ewes week lower hogs 
+		88		0.00843	powder baking food pure cream soap teeth calumet tooth toilet clean ice royal price highest cleanser absolutely tartar cake good 
+		89	clothing ads	0.02196	suits men's sale price coats shoes ladies values boys worth sizes black pair styles women's lot regular shirts wool special 
+		90	temperance?	0.00998	election vote city ward liquor mayor votes county saloon license voters majority prohibition precinct saloons town elected dry candidates ticket 
+	91	91	beer and cigar ads	0.00994	beer street charleston union phone capitol cigars liquors wines brewing cigar home pure kanawha virginia fine stamp shoe bottled whiskey 
+		92	OCRjunk	0.00298	tie tat aad tit tia fcr aaa art rat ara ar.d a-a tar aid taa ttt ard sac car r-r 
+	93	93	lists of labor officials	0.00435	president vice labor john washington federation secretary james mitchell everett cashier morrison american frank treasurer vice-president samuel fourth bldg dent 
+		94	clothing ads	0.02303	clothes suits shoes suit style prices store styles spring clothing wear fit quality men good shoe hats buy line fall 
+		95		0.01857	york years chicago states university president city born ago united died john washington today pennsylvania boston american william college illinois 
+		96	fiction?	0.00783	eyes face don't girl man looked i'm back room asked turned door father hand moment voice it's cried knew thought 
+	97	97	union meetings	0.00545	president street secretary vice union west month fourth financial treasurer superior avenue recording meets hall kalamazoo east duluth john secretary-treasurer 
+		98	"mining, coal"	0.01089	coal mine company oil miners mines gas mining district farm operators test ore creek ton county sand west coke men 
+99		99	violent deaths in families	0.01743	mrs wife home years found woman man girl mother husband young father children death son body shot boy child dead 
+	100	100	political demands	0.01172	women work children labor child woman tuberculosis hours day men health conditions girls working employment age suffrage law disease industrial 
+		101	OCRjunk - maybe	0.00892	tbe bis nnd tbat bad aud princeton tbey ber minn bas full line street bave ross stock charge bouse fine 
+		102	professional services ads	0.0087	phone office block residence bank piano telephone national bemidji music main minn ave winter house mayo building officemiles miles store 
+		103	county politics	0.00501	county candidate republican office district announce nomination september election primary held voters primaries ticket beltrami subject sheriff commissioner judge elected 
+		104	"poetry, legends, tales"	0.0276	great world life years day beautiful days long year history white earth love century place time heart famous king found 
+	105	105	court notices ordered published (divorces etc.)	0.00691	county virginia west day court fairmont state marlon corporation plaintiff marion notice suit office estate chancery company circuit clerk city 
+		106		0.00294	lot block lots sec blk wen add wife addition john dodo nett sett sevi nevi range swtt nwtt part swvi 
+		107		0.01497	omaha council company bluffs south city nebraska street bee building lincoln tha yesterday iowa douglas waa neb department club broadway 
+		108		0.0046	room fairmont rooms consideration land city coal parcel moore law clerk attorney wife yesterday estate district coke company deeds real 
+109		109	ads for remedies	0.01587	remedy cough drug cold bottle cure sold stomach sale children chamberlain's liver store colds medicine cures druggists trouble coughs tablets 
+		110		0.003	pfd pacific central market copper american steel york stocks stock southern ohio ptd cent northern union quotations railway international today 
+		111	state and county government	0.01827	state law tax legislature board county commission governor laws public general bill act section fund property amendment year roads provided 
+		112	"trials, misc (governmental) news"	0.05954	time matter fact question public statement case present letter general action part report opinion give asked effect order office reason 
+113		113	"legislation, congress"	0.01542	bill house senate committee senator tariff session vote congress measure members passed resolution senators amendment representative bills introduced president washington 
+		114		0.00232	hon keith tbo phillip breed kelvin sed rollins toy anticipate bart wagon plainsman jack demand portrait revelation puffer remington virginia 
+		115	"clothing ads, women's (?)"	0.01267	white silk black women lace color blue wear woman satin hat long skirt trimmed dress coat hats worn ribbon style 
+		116	"fiction, light stories"	0.05415	man time day good young asked woman told don't wife boy long girl back thing replied put house home story 
+		117	clothing and textile ads	0.01175	yard sale worth white price silk values goods special fine linen waists wide regular dress colors dresses lace fancy lot 
+		118	banking	0.02405	bank national money savings business interest banks capital insurance paid state account stock deposits cent banking deposit bonds loans loan 
+	119	119	strikes	0.0223	labor union men strike workers unions work federation organized wages trades international members organization day label american trade wage city 
+		120	furniture ads	0.00899	size oak price furniture rugs save front sale bed table wrapper chairs room leather special tables iron dining mahogany rug 
+	121	121	"miscellaneous (narrative, fiction, longform)"	0.05108	business country great years people city large work men state time states fact year present part good interest public number 
+		122	ads for remedies (kidney)	0.0045	kidney pills kidneys doan's back trouble remedy bladder sale cure dealers buffalo bemidji cents remember price states united pains sole 
+		123	mn places	0.02126	bemidji minnesota lake northern county state city paul cass pioneer minneapolis beltrami minn duluth falls river red johnson rapids grand 
+		124		0.00267	district including general treasurer's special arid minter ahd thfe treasurer haye aii anil thd acquaint ent number dicky thei treasurers 
+		125	contests and prizes	0.00626	contest prize prizes votes loo awarded mrs district number subscriptions gold west win contestants lady won judges grand offered vote 
+		126	"trials, murders"	0.00999	murder jury trial case witness man shot mrs attorney negro death told court testimony killed evidence today defense night wife 
+		127	county books - colfax gazette	0.00929	colfax wife blk spokane lot pullman real lots whitman bank add state mtg palouse neq seq livestock nwq swq gazette 
+		128	tobacco	0.0038	united states tobacco district bankrupt bankruptcy snuff leaf creditors currency porto comptroller prove acts islands natural rico absolutely complied discharge 
+		129	subscription ads	0.01394	paper year daily sunday months paid papers subscription newspaper news dally advertising mall month matter published week editor address mail 
+	130	130	"socialist party, socialism"	0.00547	class socialist labor workers working party socialism political socialists public capitalist system people power land work charleston wage struggle argus 
+		131	store and hotel ads	0.01565	store hotel business drug ice shop goods city house good stock street sale line building call place room grocery cream 
+	132	132	encouragement to advertise	0.05566	good time man money work business people home day men year give don't years pay things put find life town 
+133		133	cattle brands	0.00624	valentine left nebraska branded cattle horses side nebr cherry hip lake wood shoulder town range sale rosebud ranch cut kennedy 
+134		134	farming	0.01879	corn farmers crop farm wheat seed soil grain good farmer year crops trees bushels winter fruit land dry plant oats 
+135		135	Personal news	0.03518	mrs week home sunday miss saturday returned monday visit visiting tuesday spent evening friday friends days business left wednesday family 
+		136	boats and water transport	0.01254	boat ship river steamer sea lake water navy captain vessel crew boats island fleet york harbor coast vessels naval men 
+		137	help wanted	0.01891	good wanted address bee work housework write business omaha man apply men family general wages call ave free bldg experience 
+		138	ads for hair products	0.00517	hair scalp dandruff skin gray sage remedy color falling sulphur tonic preparation bottle store druggists drug sold treatment natural rexall 
+		139	automobiles	0.01971	car machine automobile oil gas cars electric motor light stove heat power auto iron coal machines steel air engine company 
+140		140	personal news	0.01139	falls tbe john minneapolis monday wednesday returned cloud tuesday frank royalton visit miss paul pierz business saturday mrs week peter 
+		141	"sports, baseball"	0.00672	hits hit bases base score inning game struck innings balls time sacrifice double run ninth stolen ball left batted pitched 
+		142	apartments for rent?	0.01134	rooms modern room furnished ave housekeeping harney private phone family front board distance light walking bath rent douglas heat water 
+		143	lodge meetings	0.00459	hall meets month lodge sec morris fourth mccook mrs masonic invited pres grand saturday thursday cordially knights chapter monday rec 
+		144		0.00209	miles paul duluth minneapolis minnesota water river summer state northern mississippi lake boating mainsabout marie ste wells postal sault home 
+		145	national government	0.01893	president washington taft secretary states roosevelt government congress department united service general national chief office colonel indian white today senator 
+		146	ads for remedies (skin)	0.00279	cuticura ointment soap remedies skin eczema itching cured person potter hands months face head mailed boston corp receipt cuti cura 
+147		147	official notices of real estate?	0.00871	day county sale mortgage state notice interest o'clock date office minnesota dollars due public dated highest bidder thereof sum deed 
+		148	"personal news, society pages"	0.01237	mrs miss home evening wedding bride young party served club marriage friends afternoon guests entertained married church honor ceremony present 
+		149	OCRjunk	0.00615	iii ill lit tit til mil i.i ift lha lii kit r.o l.t ilia r.t tli t.i i'm l.o i'i 
