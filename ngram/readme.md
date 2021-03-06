@@ -67,7 +67,7 @@ So now it looks like this:
 
 <img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/datarows.png" width=150 height=218 alt="data in rows">
 
-You can download the data file if you like, it's openclosed_ngram.csv. 
+You can download the data file if you like, it's `openclosed_ngram.csv`. 
 
 Then we can get a plot, nicely formatted, by:
 
