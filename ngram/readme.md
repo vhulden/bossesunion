@@ -39,7 +39,9 @@ To get the data, I did a search in Google Ngrams on closed shop, open shop, unio
 
 Or view it in [the ngram creator](https://books.google.com/ngrams/graph?content=closed+shop%2Copen+shop%2Cunion+shop&year_start=1875&year_end=2019&corpus=28&smoothing=0).
 
-Using instructions [here](https://johannesfilter.com/how-to-export-data-from-google-ngram-viewer/), I opened that in Chrome and copy-pasted the line with ngrams.data into a text file.
+We need a few extra years at either end since we'll be smoothing the data --- that is, taking an average of several years --- so that doesn't work for the values at the edges.
+
+I found some instructions [here](https://johannesfilter.com/how-to-export-data-from-google-ngram-viewer/), and playing around with them, figured out that now the variable is now called **ngram.data** so I found that, copied its contents, and pasted it into a text file.
 
 ![Chrome inspector screenshot](https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/chromedata.png)
 
@@ -51,27 +53,28 @@ Save as csv.
 
 Open in RStudio for smoothing (I’m using smoothing of 7 - I tried using 3 to reproduce Google ngram’s standard smoothing of 3, but it looks different, even though I think what should be happening should be what they say they do).
 
-`> newdata <- data.table(ngramdata)
+```
+> newdata <- data.table(ngramdata)
 > newdata[, `:=`(rollNopen = frollmean(open.shop, n = 7, align = "center"))]
 > newdata[, `:=`(rollNclosed = frollmean(closed.shop, n = 7, align = "center"))]
-> newdata[, `:=`(rollNunion = frollmean(union.shop, n = 7, align = "center"))]`
+> newdata[, `:=`(rollNunion = frollmean(union.shop, n = 7, align = "center"))]
+```
 
-
-Now export the data to csv (write.csv) and then &mdash; not sure if this would be necessary, actually, and probably could be done in R, but I didn’t know how, so there &mdash; transform the data using [rawgraphs.io](https://rawgraphs.io/). Just copy-paste the csv data into the screen, hit on stack data, stack on year.
-
-(Note that in the meantime I cut out the earliest and the latest years, so it’s now 1880-2010; there were some empty values early and late).
+Next, got rid of the old columns and renamed the new, rolling mean columns. Also cut out the earliest and the latest years, so it’s now 1880-2010.
 
 So now it looks like this:
 
 <img src="https://github.com/vhulden/governmentbythebosses/blob/main/ngram/images/datarows.png" width=150 height=218 alt="data in rows">
 
-You can download the data file if you like, it's ngram.csv. Open that in RStudio.
+You can download the data file if you like, it's openclosed_ngram.csv. 
 
 Then we can get a plot, nicely formatted, by:
 
 `> ggplot(smoothedngramdata_stacked_1880.2010,aes(x=year,y=percentage,group=term)) + geom_line(aes(linetype=term)) +  scale_linetype_manual(values=c("solid", "longdash","dotted")) + theme(panel.background = element_rect(fill = 'white'), legend.position = "bottom", panel.grid.major = element_line(colour = "grey90"),  panel.grid.minor.y = element_blank(), panel.grid.major.x = element_blank(), axis.text.x.bottom = element_text(size=14), axis.text.y.left = element_text(size=14), legend.title = element_blank(), legend.text = element_text(size=14)) + scale_x_continuous(breaks=seq(1880, 2010, 10)) + scale_y_continuous(labels = scales::percent_format(accuracy = 0.0001)) +  labs(x = "", y = "")`
 
 And that produced the image in the book. The numbers don't quite match Google ngram &mdash; there the peak of closed shop is 0.0006 and the peak of open shop is 0.000355. On the other hand, the graph on Ngrams on google doesn’t show them right; the open shop peak goes over 0.0004 despite the #.  However, the shape is the same, and the minor differences don't change the argument.
+
+Same procedure, of course, worked for the industrial democracy ngram.
 
 ## Some variants
 
