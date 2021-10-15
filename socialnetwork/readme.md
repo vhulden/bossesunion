@@ -42,9 +42,9 @@ The Cytoscape SN file is `BSTL-network.cys`. There, *Book of St Louisans Everyon
 
 In addition, since we’re mainly interested in the businessmen, the .cys network contains a representation of the network of members of business associations. The slicing is done with `slice-bstl.py` — get only those who list membership in BMA/BML, CIA/CA, MFA or who are identified as NAM members. There are 472 such individuals. Saved in `BSTL-businessmen.tsv`.
 
-That is then fed into the `snalinks-bsl-revised.py` script for making geolinks and clublinks between just this group. Those files (`BSTL-businessmen_clubconnectioncounts.txt` and `BSTL-businessmen_geoconnections.txt`) are then fed into Cytoscape. 
+That is then fed into the `snalinks-bsl-revised.py` script for making geolinks and clublinks between just this group. That produces  `BSTL-businessmen_clubconnectioncounts.txt` and `BSTL-businessmen_geoconnections.txt` which are fed to another script, `mergenetworks.py`, combines both types of links (while also restricting to only 3-or-more-clubs links; the geolinks are already <0.1 miles). That network file, `BSTL-businessmen_geo_and_socialconnections.txt` is then fed into Cytoscape; it's the one that contains the network shown in the book is constructed. It uses the Allegro Fruchterman Reingold algorithm, mostly with default settings, with some scaling added to make it a bit more legible.
 
-In Cytoscape, the clubconnections is then restricted to 3 or more, a new network extracted from that, and then that is merged (union) with the geoconnections. This is the *BookOfStLouisans - merged geo 3 or more clubconnections* (and produces the main figure). The main figure uses the Allegro Fruchterman Reingold algorithm, mostly with default settings. 
+(Note: in the Cytoscape file this is the last network in the list; the others are various intermediate products, either not restricted to businessmen or constructed from the separate social-club-link and geolink files; originally I merged and restricted those using Cytoscape, but then realized that I wasn't entirely sure how that worked and why it made the display choices it did. Merging them manually with a script also allowed me to identify individuals who are linked _both_ by geography _and_ by social clubs and to show those links in a different color/line.)
 
 ## Gould's Blue Book
 
