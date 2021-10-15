@@ -1,6 +1,8 @@
 # Documentation of the creation of the social networks
 
-## Book of St. Louisans
+There are two different networks in the book: one links St. Louis social clubs by membership, and the other links businessmen based on their social club membership and addresses. The first one is intended to show the interconnectedness of the St. Louis upper middle class in the 20th century, while the second especially emphasizes the social basis on which businessmen could draw when building their own organizations.
+
+## Book of St. Louisans and the network of businessmen
 
 There are two editions of the Book of St. Louisans, [1906](https://hdl.handle.net/2027/loc.ark:/13960/t6rx9kb8c) and [1912](https://hdl.handle.net/2027/yale.39002028025832) (the links take you to the book in HathiTrust). I have combined both and tried to eliminate duplicates (though I'm aware some duplicates do remain).
 
@@ -46,7 +48,7 @@ That is then fed into the `snalinks-bsl-revised.py` script for making geolinks a
 
 (Note: in the Cytoscape file this is the last network in the list; the others are various intermediate products, either not restricted to businessmen or constructed from the separate social-club-link and geolink files; originally I merged and restricted those using Cytoscape, but then realized that I wasn't entirely sure how that worked and why it made the display choices it did. Merging them manually with a script also allowed me to identify individuals who are linked _both_ by geography _and_ by social clubs and to show those links in a different color/line.)
 
-## Gould's Blue Book
+## Gould's Blue Book and the interconnectedness of the St. Louis elites
 
 Gould’s Blue Book (also [available in HathiTrust](https://hdl.handle.net/2027/mdp.39015073276126)) is used to create a network of the clubs themselves. It is a list of club membership lists, essentially, like this:
 
