@@ -20,7 +20,7 @@ Open that file in Excel and grab just the ID and address (residence) field for g
 ![Percentages of different types of geolocation matches](https://github.com/vhulden/governmentbythebosses/blob/main/socialnetwork/images/geomatches.png)
 
 
-### Hotels:
+**Hotels:**
 
 *Buckingham Hotel* (listed as residence for 47 people) has coordinates on Wikipedia, I’m adding those and counting that as exact.
 *Washington Hotel* (listed as residence for 31 people) - can’t locate.
