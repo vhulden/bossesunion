@@ -22,10 +22,10 @@ then concatenate;
 
 import codecs
 
-readfile_social = "/../tabular/BSTL-businessmen_clubconnectioncounts.txt"
-readfile_distance = "../tabular/BSTL-businessmen_geoconnections.txt"
+readfile_social = "/../networkfiles/BSTL-businessmen_clubconnectioncounts.txt"
+readfile_distance = "../networkfiles/BSTL-businessmen_geoconnections.txt"
 #writefile = "/Users/vilja/work/research/manuscript/digitalcomponents/biographical/BSTL-NamInCentralClubs.tsv"
-writefile = "../tabular/BSTL-businessmen_geo_and_socialconnections.txt"
+writefile = "../networkfiles/BSTL-businessmen_geo_and_socialconnections.txt"
 
 
 with codecs.open(readfile_social,'r',encoding='utf8') as f:
