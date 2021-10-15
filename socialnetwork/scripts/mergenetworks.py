@@ -30,7 +30,7 @@ writefile = "../snfiles/BSTL-businessmen_geo_and_socialconnections.txt"
 
 with codecs.open(readfile_social,'r',encoding='utf8') as f:
     lines = [[el.strip() for el in line.split('\t')] for line in f.read().splitlines()]
-    #only include lines where clubcount is at least 3
+    #only include lines where clubcount is at least 3  
     soclinestemp = [l for l in lines if int(l[2])>=3]
 
 
