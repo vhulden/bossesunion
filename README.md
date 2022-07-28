@@ -1,4 +1,4 @@
-# Documentation of digital work in Government by the Bosses
+# Documentation of digital work in The Bosses' Union
 
 This is a repository for some of the digital work included in my book. The book will hopefully be published sometime later this year or early next year by the University of Illinois Press. 
 
